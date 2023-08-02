@@ -1,0 +1,114 @@
+#EXTM3U
+#EXTINF:-1 group-title="AFGHANISTAN",AFGHANISTAN INTERNATIONAL
+https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1 ,164 SHARQ
+http://51.210.227.164/hls/stream.m3u8
+#EXTINF:-1,Payvand TV 
+http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1,Payam-e-Afghan TV 
+https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",BAHAR
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",KAYHAN
+https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1146058564.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",ASIA MUSIC
+https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",PAMIR
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",NOBEL MOVIES
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",NOBEL MUSIC
+https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w1051341483.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",HASTI
+https://live.hastitv.com/hls/livetv.m3u8
+#EXTINF:-1,MTV India IN
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6582/index.m3u8
+#EXTINF:-1,Music Box Gold
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/14149/index.m3u8
+
+#EXTINF:-1,BOLLYWOOD HD IL
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12267/index.m3u8
+#EXTINF:-1,Bollywood TV RO
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/7054/index.m3u8
+#EXTINF:-1,Colors Cineplex IN
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6592/index.m3u8
+#EXTINF:-1 ,BOLLYWOOD PRIME
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1 group-title="INDIA",SONY MAX HD
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",SONY MAX2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",BollywoodHD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
+#EXTINF:-1 group-title="INDIA",BollywoodClassic
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
+#EXTINF:-1,Zee Anmol IN
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6597/index.m3u8
+#EXTINF:-1,Colors Rishtey IN
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6586/index.m3u8
+#EXTINF:-1,E24 (IN)
+http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE AFLAM
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIA",BOLLYWOOD UAE
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:-1 ,Rouge TV
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1,YOSSO TV 
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/14176/index.m3u8
+#EXTINF:-1, senso
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6254/index.m3u8
+#EXTINF:-1,VIASAT FILM ACTION HD SE
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12081/index.m3u8
+#EXTINF:-1,VIASAT FILM PREMIER HD SE
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12082/index.m3u8
+#EXTINF:-1,VIASAT FILM HITS HD SE
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12072/index.m3u8
+#EXTINF:-1,Sky Romance TV FHD DE
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/7231/index.m3u8
+#EXTINF:-1,DE Romance TV HD
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/20008/index.m3u8
+#EXTINF:-1,TV 4 FILM SE
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12069/index.m3u8
+#EXTINF:-1,BCU FilMystic HD
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/11033/index.m3u8
+#EXTINF:-1,Penthouse Gold HD
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/5011/index.m3u8
+#EXTINF:-1 ,WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 ,RedBox Spotlight
+https://spotlight-redbox.amagi.tv:443/playlist240p.m3u8
+#EXTINF:-1 ,RedBox Comedy
+https://comedy-redbox.amagi.tv:443/playlist1080p.m3u8
+#EXTINF:-1 ,Groovy
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 ,Netmax TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:-1 ,CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1 ,Wild Earth
+https://wildearth-roku.amagi.tv/master.m3u8
+#EXTINF:-1 ,Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+#EXTINF:-1 ,ME: DUBAI ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
+#EXTINF:-1,CINEVIEW (UK)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+#EXTINF:-1,BRAT TV (US)
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,Three Angels Broadcasting Network English 
+https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8
+#EXTINF:-1,Three Angels Broadcasting Network International 
+https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
+#EXTINF:-1,Beach TV Florida & Alabama 
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1,Revry Her
+https://6bda80f950a748f2870036a8a4825727.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-73-OML-BRIGHTCOVE/mt/brightcove/73/hls/master/playlist.m3u8
+#EXTINF:-1,Revry 2
+https://785e3b6ff91d4c6db1d8a5b67a894571.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-5-REVRY-BRIGHTCOVE/mt/brightcove/5/hls/master/playlist.m3u8
+#EXTINF:-1,Toonami Aftermath Movies 
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:0 tvg-id="CinecanalHD.mx" group-title="Channels",CINECANAL HD
+http://45.166.92.22:58001/play/a04b/index.m3u8
+#EXTINF:-1,YES ISRAELI CINEMA IL
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12257/index.m3u8
