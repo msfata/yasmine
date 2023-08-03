@@ -1,81 +1,68 @@
 #EXTM3U
-#EXTINF:-1 group-title="AFGHANISTAN",AFGHANISTAN INTERNATIONAL
-https://hls.afintl.com/hls/stream.m3u8
-#EXTINF:-1 ,164 SHARQ
-http://51.210.227.164/hls/stream.m3u8
-#EXTINF:-1,Payvand TV 
-http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
-#EXTINF:-1,Payam-e-Afghan TV 
-https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",BAHAR
-https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",KAYHAN
-https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1146058564.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",ASIA MUSIC
-https://amchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",PAMIR
-http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",NOBEL MOVIES
-https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",NOBEL MUSIC
-https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w1051341483.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",HASTI
-https://live.hastitv.com/hls/livetv.m3u8
-#EXTINF:-1,MTV India IN
-http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6582/index.m3u8
-#EXTINF:-1,Music Box Gold
-http://typicamn.russtv.net/iptv/349W3XS8ENP64A/14149/index.m3u8
-
-#EXTINF:-1,BOLLYWOOD HD IL
-http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12267/index.m3u8
-#EXTINF:-1,Bollywood TV RO
-http://typicamn.russtv.net/iptv/349W3XS8ENP64A/7054/index.m3u8
-#EXTINF:-1,Colors Cineplex IN
-http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6592/index.m3u8
-#EXTINF:-1 ,BOLLYWOOD PRIME
-https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-#EXTINF:-1 group-title="INDIA",SONY MAX HD
-http://208.86.19.13:81/7066.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",SONY MAX2
-http://208.86.19.13:81/7300.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",BollywoodHD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
-#EXTINF:-1 group-title="INDIA",BollywoodClassic
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
-#EXTINF:-1,Zee Anmol IN
-http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6597/index.m3u8
-#EXTINF:-1,Colors Rishtey IN
-http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6586/index.m3u8
-#EXTINF:-1,E24 (IN)
-http://longstream-04.ajaah.com/PlayBoxTV/E24/playlist.m3u8
-#EXTINF:-1 group-title="INDIA",ZEE AFLAM
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIA",BOLLYWOOD UAE
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 #EXTINF:-1 ,Rouge TV
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1,Brazzers TV Europe
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/910/index.m3u8
+#EXTINF:-1,Japan HDV
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6225/index.m3u8
+#EXTINF:-1,Hot and Mean
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6222/index.m3u8
+#EXTINF:-1,FemJoy
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6212/index.m3u8
+#EXTINF:-1,Fa HD
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6202/index.m3u8
+#EXTINF:-1,Digital Playground HD
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6196/index.m3u8
+#EXTINF:-1,Evolved Fights
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6200/index.m3u8
+#EXTINF:-1,Day with a 
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6192/index.m3u8
+#EXTINF:-1,Venus HD
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12133/index.m3u8
+#EXTINF:-1,Venus
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6284/index.m3u8
+#EXTINF:-1,Dancing Bear
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12144/index.m3u8
+#EXTINF:-1,Dane Jones
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12143/index.m3u8
+#EXTINF:-1,VERAPORN G
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12142/index.m3u8
+#EXTINF:-1,VERAPORN G1
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12141/index.m3u8
+#EXTINF:-1,An 4K
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12190/index.m3u8
+#EXTINF:-1,BAG U
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12170/index.m3u8
+#EXTINF:-1,Ban Fever
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12168/index.m3u8
+#EXTINF:-1,Bang Bus
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12167/index.m3u8
+#EXTINF:-1,Bang POV
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12166/index.m3u8
 #EXTINF:-1,YOSSO TV 
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/14176/index.m3u8
 #EXTINF:-1, senso
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/6254/index.m3u8
+#EXTINF:-1,BBC Pie
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12164/index.m3u8
+#EXTINF:-1,Penthouse Gold HD
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/5011/index.m3u8
+#EXTINF:-1,Barely Legal TV
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12165/index.m3u8
+#EXTINF:-1,Sky Romance TV FHD DE
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/7231/index.m3u8
+#EXTINF:-1,DE Romance TV HD
+http://typicamn.russtv.net/iptv/349W3XS8ENP64A/20008/index.m3u8
 #EXTINF:-1,VIASAT FILM ACTION HD SE
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12081/index.m3u8
 #EXTINF:-1,VIASAT FILM PREMIER HD SE
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12082/index.m3u8
 #EXTINF:-1,VIASAT FILM HITS HD SE
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12072/index.m3u8
-#EXTINF:-1,Sky Romance TV FHD DE
-http://typicamn.russtv.net/iptv/349W3XS8ENP64A/7231/index.m3u8
-#EXTINF:-1,DE Romance TV HD
-http://typicamn.russtv.net/iptv/349W3XS8ENP64A/20008/index.m3u8
 #EXTINF:-1,TV 4 FILM SE
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12069/index.m3u8
 #EXTINF:-1,BCU FilMystic HD
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/11033/index.m3u8
-#EXTINF:-1,Penthouse Gold HD
-http://typicamn.russtv.net/iptv/349W3XS8ENP64A/5011/index.m3u8
-#EXTINF:-1 ,WOW! TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
 #EXTINF:-1 ,RedBox Spotlight
 https://spotlight-redbox.amagi.tv:443/playlist240p.m3u8
 #EXTINF:-1 ,RedBox Comedy
@@ -112,3 +99,4 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 http://45.166.92.22:58001/play/a04b/index.m3u8
 #EXTINF:-1,YES ISRAELI CINEMA IL
 http://typicamn.russtv.net/iptv/349W3XS8ENP64A/12257/index.m3u8
+
