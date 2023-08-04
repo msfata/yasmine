@@ -15,8 +15,14 @@ https://comedy-redbox.amagi.tv:443/playlist1080p.m3u8
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1,www
 http://15.235.10.31:14079
+#EXTINF:-1,www1
+http://15.235.10.31:14083
 #EXTINF:-1,sport
 http://15.235.10.31:14301
+#EXTINF:-1,HBO POP
+http://15.235.10.31:14397
+#EXTINF:-1,HBO SIGNATURE
+http://15.235.10.31:14401
 #EXTINF:-1 ,Netmax TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 ,CTB
