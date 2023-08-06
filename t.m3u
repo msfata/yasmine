@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1,Victor Valley Movies 
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+#EXTINF:-1,FilmRise Sci-Fi Finland
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8
+#EXTINF:-1,FilmRise Free Movies 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1,FilmRise Family 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1,Film Hub 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1,Sony Movies 
+http://n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1,Mytime Movies 
+https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,MovieSphere 
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Gravitas Movies 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1,FilmRise Free Movies 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1,My Cinema
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:-1,Cinema + (720p)
+https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
+#EXTINF:-1,ROCK
+http://210.210.155.37/dr9445/h/h15/index.m3u8
 #EXTINF:-1,English
 http://iptv.prosto.tv:7000/ch163/video.m3u8
 #EXTINF:-1,Test
@@ -10,7 +36,7 @@ http://iptv.prosto.tv:7000/ch127/video.m3u8
 #EXTINF:-1,MTV wonder
 http://iptv.prosto.tv:7000/ch129/video.m3u8
 #EXTINF:-1,Hollywood HD
-http://iptv.prosto.tv:7000/ch50/video.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 ,Movies 1
 http://181.78.8.90:16123/play/ch10
 #EXTINF:-1 ,Movies 2
@@ -51,6 +77,8 @@ https://brat-rakuten.amagi.tv/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1 ,Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1,Venus Media 
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
 #EXTINF:-1 group-title="Channels",CINECANAL HD
 http://45.166.92.22:58001/play/a04b/index.m3u8
 #EXTINF:-1 ,YES ISRAELI CINEMA IL
