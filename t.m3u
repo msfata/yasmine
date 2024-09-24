@@ -11,7 +11,8 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chun
 #EXTINF:-1 group-title="AFGHANISTAN",NOBEL MOVIES
 https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/chunklist_w2113308771.m3u8
 
-
+#EXTINF:-1,MTV India 
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6582/index.m3u8
 #EXTINF:-1 group-title="India",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 ,BollywoodHD 
@@ -125,6 +126,8 @@ http://103.84.57.155:8000/play/a035/index.m3u8
 http://103.84.57.155:8000/play/a00w/index.m3u8
 #EXTINF:-1,SONY PIX
 http://103.84.57.155:8000/play/a09t/index.m3u8
+#EXTINF:-1,SONY PIX BACKUP
+http://103.49.69.156:8000/play/a02o/index.m3u8
 #EXTINF:-1,&PRIVE HD
 http://103.84.57.155:8000/play/a0a6/index.m3u8
 #EXTINF:-1,&flix HD
@@ -133,8 +136,26 @@ http://103.84.57.155:8000/play/a083/index.m3u8
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1,Vallevision Canal 10
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-#EXTINF:-1,CHINEES MOVIES
-https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
-#EXTINF:-1,Aio Eshareh
-https://live.aionet.ir/hls/eshareh/eshareh.m3u8
+#EXTINF:-1,HBO 2
+http://103.49.69.156:8000/play/a00e/index.m3u8
+#EXTINF:-1,HBO 3
+http://103.49.69.156:8000/play/a00g/index.m3u8
+#EXTINF:-1,FX COMEDY
+http://103.49.69.156:8000/play/a00i/index.m3u8
+#EXTINF:-1,AXN PREMIER
+http://103.49.69.156:8000/play/a00j/index.m3u8
+#EXTINF:-1,CINEMAX
+http://103.49.69.156:8000/play/a00k/index.m3u8
+#EXTINF:-1,OSN
+http://103.49.69.156:8000/play/a01k/index.m3u8
+#EXTINF:-1,THE WOMEN KING
+http://103.49.69.156:8000/play/a01e/index.m3u8
+#EXTINF:-1,POLSAT MUSIC
+http://103.49.69.156:8000/play/a004/index.m3u8
+#EXTINF:-1,DANCE TV
+http://103.49.69.156:8000/play/a003/index.m3u8
+#EXTINF:-1,STARS TV
+http://103.49.69.156:8000/play/a002/index.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://103.49.69.156:8000/play/a011/index.m3u8
 
