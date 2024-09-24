@@ -10,41 +10,47 @@ https://amchls.wns.live/hls/stream.m3u8
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",NOBEL MOVIES
 https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/chunklist_w2113308771.m3u8
+
+
 #EXTINF:-1 group-title="India",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-#EXTINF:-1 group-title="HINDI",BOLLYWOOD HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
+#EXTINF:-1 ,BollywoodHD 
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1,ZEE BOLLYWOOD
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:-1,SONY MAX 2
 http://103.49.69.156:8000/play/a02f/index.m3u8
 #EXTINF:-1,ZEE CINEMA HD
 http://217.20.112.199/zeecinema/index.m3u8
-#EXTINF:-1,COLOR CINEPLEX BOLLYWOOD
-http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=4246&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 ,Zee Cinema 2
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6642/index.m3u8
 #EXTINF:-1,B4U MOVIES 
 http://str24.l9574.com/719.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI",B4U KADAK
 http://cdn2.pishow.tv/live/160/master.m3u8
+#EXTINF:-1 ,Color Cineplix Superhit
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
+#EXTINF:-1 ,Zee Classic
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6596/index.m3u8
 #EXTINF:0,STAR GOLD ROMANCE
 http://103.84.57.155:8000/play/a0c8/index.m3u8
 #EXTINF:-1,STAR GOLD 2 UK
 http://103.49.69.156:8000/play/a01f/index.m3u8
 #EXTINF:-1 group-title="India",STAR GOLD SELECT
 http://str24.l9574.com/709.stream/index.m3u8
-#EXTINF:-1 group-title="HINDI",BollywoodClassic
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD SHEMAROO
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-
-
-
+#EXTINF:-1,COLOR CINEPLEX BOLLYWOOD
+http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=4246&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 ,GoldMines
+http://103.131.214.129:9985/stream/channelid/687452415?ticket=745F149C11835A0E7168B5B3AE50EAFBD1A505E8&profile=pass
 #EXTINF:-1 group-title="Hindi",JOO
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 ,YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
 #EXTINF:-1,And Pictures HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/Andpictureshd1.m3u8
 #EXTINF:-1,And Pictures
@@ -75,8 +81,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/Zeeanmolcin
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-1,ZEE ACTION DELAY POSIBLE
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction.m3u8
-
-
+#EXTINF:-1 ,Sony Max
+http://mag.alphatx.me:80/play/live.php?mac=00:1A:79:B5:11:DE&stream=1458625&extension=ts&play_token=mKScke3NmS
 #EXTINF:-1 group-title="HINDI",SHEMAROO FILMY GAANE
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/c80a70b7-08fa-4f36-8578-88a3da022708/0.m3u8
 #EXTINF:-1,B4U MUSIC
@@ -95,10 +101,8 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 http://103.84.57.155:8000/play/a09j/index.m3u8
 #EXTINF:-1,IN Zee Cinema Asia 
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/1350#checkedby:iptvlister.com
-#EXTINF:-1,IN & pictures
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/16958#checkedby:iptvlister.com
-#EXTINF:0,COLOR CINEPLIX
-http://103.113.149.202:8000/play/a045/index.m3u8
+
+
 #EXTINF:-1,GROOVY
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 #EXTINF:-1,NETMAX
@@ -133,3 +137,4 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
 https://linear-59.frequency.stream/dist/roku/59/hls/master/playlist.m3u8
 #EXTINF:-1,Aio Eshareh
 https://live.aionet.ir/hls/eshareh/eshareh.m3u8
+
