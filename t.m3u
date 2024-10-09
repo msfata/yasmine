@@ -13,7 +13,24 @@ https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/chunklis
 
 #EXTINF:-1,9X Jalwa
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
-
+#EXTINF:-1,ZING
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing1/default/zing.m3u8
+#EXTINF:-1,Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1,BOLLWDOOD PRIMR
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
+#EXTINF:-1,BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+#EXTINF:-1,Zee Cinema HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#EXTINF:-1,Zee Cinema HD (Zee)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/thenayeemparvez.m3u8
+#EXTINF:-1,ZEE ANIMOL CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/Zeeanmolcinema1.m3u8
+#EXTINF:-1,Zee Anmol 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/thenayeemparvez.m3u8
+#EXTINF:-1,Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 #EXTINF:-1 group-title="India",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 ,BollywoodHD 
