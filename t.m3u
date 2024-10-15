@@ -10,27 +10,12 @@ https://amchls.wns.live/hls/stream.m3u8
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",NOBEL MOVIES
 https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/chunklist_w2113308771.m3u8
+#EXTINF:-1 group-title="Iran", IRANI
+https://cdnw.telewebion.com/tv3/live/playlist.m3u8
 
 #EXTINF:-1,9X Jalwa
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
-#EXTINF:-1,ZING
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing1/default/zing.m3u8
-#EXTINF:-1,Bollywood Classic
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1,BOLLWDOOD PRIMR
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
-#EXTINF:-1,BOLLYWOOD HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
-#EXTINF:-1,Zee Cinema HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
-#EXTINF:-1,Zee Cinema HD (Zee)
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/thenayeemparvez.m3u8
-#EXTINF:-1,ZEE ANIMOL CINEMA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/Zeeanmolcinema1.m3u8
-#EXTINF:-1,Zee Anmol 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/thenayeemparvez.m3u8
-#EXTINF:-1,Zee Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
+
 #EXTINF:-1 group-title="India",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 ,BollywoodHD 
@@ -69,107 +54,13 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 ,YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
-#EXTINF:-1,And Pictures HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/Andpictureshd1.m3u8
-#EXTINF:-1,And Pictures
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures1/default/Andpictures1.m3u8
-#EXTINF:-1,ZEE CINEMA INDIA
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema1/default/Zeecinema1.m3u8
-#EXTINF:-1,Zee Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/Zeebollywood1.m3u8
-#EXTINF:-1,Zee Action
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/Zeeaction1.m3u8
-#EXTINF:-1,Zee Anmol Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/Zeeanmolcinema1.m3u8
-#EXTINF:-1,Zing
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/Zing1.m3u8
-#EXTINF:-1,AND PICTURES DELAY POSIBLE
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures1/default/andpictures.m3u8
-#EXTINF:-1,AND PICTURES HD DELAY POSIBLE
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictures.m3u8
-#EXTINF:-1,Zee Bollywood DELAY POSIBLE
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
-#EXTINF:-1,Zing DELAY POSIBLE
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
-#EXTINF:-1, MOVIES DELAY POSIBLE
-https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-#EXTINF:-1,ZEE ANIMOL CINEMA DELAY POSIBLE
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema1/default/Zeeanmolcinema1.m3u8
-#EXTINF:-1,Zee Cinema HD DELAY POSIBLE
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
-#EXTINF:-1,ZEE ACTION DELAY POSIBLE
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction.m3u8
+
 
 #EXTINF:-1 group-title="HINDI",SHEMAROO FILMY GAANE
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/c80a70b7-08fa-4f36-8578-88a3da022708/0.m3u8
-#EXTINF:-1,B4U MUSIC
-http://cdn2.pishow.tv/live/141/master.m3u8
-#EXTINF:-1,MUSIC INDIA
-http://cdn2.pishow.tv/live/135/master.m3u8
-#EXTINF:-1,9X
-http://cdn2.pishow.tv/live/137/master.m3u8
-#EXTINF:-1,HINDI2
-http://cdn2.pishow.tv/live/159/master.m3u8
-#EXTINF:-1,Zee Aflam 
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-#EXTINF:-1 group-title="HINDI",MBC BPLLYWOOD
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1,ZEE CINEMA BACKUP
-http://103.84.57.155:8000/play/a09j/index.m3u8
 
 
 
-#EXTINF:-1,GROOVY
-http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-
-#EXTINF:-1,SCREAM
-https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
-#EXTINF:-1,Toonami Aftermath Movies
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:-1,HBO
-http://41.205.93.154/HBO/index.m3u8
-#EXTINF:-1,HBO PRIME
-http://103.110.110.11:8081/live/hbo/playlist.m3u8
-#EXTINF:-1,MNX
-http://103.84.57.155:8000/play/a030/index.m3u8
-#EXTINF:-1,FX
-http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1,ROMEDY NOW
-http://103.84.57.155:8000/play/a035/index.m3u8
-#EXTINF:-1,STAR MOVIES SELECT
-http://103.84.57.155:8000/play/a00w/index.m3u8
-#EXTINF:-1,SONY PIX
-http://103.84.57.155:8000/play/a09t/index.m3u8
-#EXTINF:-1,SONY PIX BACKUP
-http://103.49.69.156:8000/play/a02o/index.m3u8
-#EXTINF:-1,&PRIVE HD
-http://103.84.57.155:8000/play/a0a6/index.m3u8
-#EXTINF:-1,&flix HD
-http://103.84.57.155:8000/play/a083/index.m3u8
-#EXTINF:-1,Wild EARTH
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1,Vallevision Canal 10
-https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-#EXTINF:-1,HBO 2
-http://103.49.69.156:8000/play/a00e/index.m3u8
-#EXTINF:-1,HBO 3
-http://103.49.69.156:8000/play/a00g/index.m3u8
-#EXTINF:-1,FX COMEDY
-http://103.49.69.156:8000/play/a00i/index.m3u8
-#EXTINF:-1,AXN PREMIER
-http://103.49.69.156:8000/play/a00j/index.m3u8
-#EXTINF:-1,CINEMAX
-http://103.49.69.156:8000/play/a00k/index.m3u8
-#EXTINF:-1,OSN
-http://103.49.69.156:8000/play/a01k/index.m3u8
-#EXTINF:-1,THE WOMEN KING
-http://103.49.69.156:8000/play/a01e/index.m3u8
-#EXTINF:-1,POLSAT MUSIC
-http://103.49.69.156:8000/play/a004/index.m3u8
-#EXTINF:-1,DANCE TV
-http://103.49.69.156:8000/play/a003/index.m3u8
-#EXTINF:-1,STARS TV
-http://103.49.69.156:8000/play/a002/index.m3u8
 #EXTINF:-1,ANIMAL PLANET
 http://103.49.69.156:8000/play/a011/index.m3u8
 
