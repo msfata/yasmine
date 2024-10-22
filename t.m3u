@@ -23,9 +23,6 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/chunklist_w2113308771.m3u8
 
 
-#EXTINF:-1,STAR PLUS
-http://217.20.112.199/starplushd/index.m3u8
-
 #EXTINF:-1,Zee Cinema
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6642/index.m3u8
 
@@ -37,12 +34,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:-1,SONY MAX 2
 http://103.49.69.156:8000/play/a02f/index.m3u8
-#EXTINF:-1,ZEE CINEMA HD
-http://217.20.112.199/zeecinema/index.m3u8
-#EXTINF:-1 ,Zee Cinema 2
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6642/index.m3u8
-#EXTINF:-1,B4U MOVIES 
-http://str24.l9574.com/719.stream/index.m3u8
+
+
+
 #EXTINF:-1 group-title="HINDI",B4U KADAK
 http://cdn2.pishow.tv/live/160/master.m3u8
 #EXTINF:-1 ,Color Cineplix Superhit
