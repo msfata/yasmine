@@ -66,8 +66,23 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1 group-title="HINDI",SHEMAROO FILMY GAANE
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/c80a70b7-08fa-4f36-8578-88a3da022708/0.m3u8
 
+#EXTINF:-1,REVOLT US
+http://143.244.60.30/REVOLT/manifest.m3u8
+#EXTINF:-1,MOVIE 1
+https://d1jfc1x2reg057.cloudfront.net/titan/_definst_/vidly_vod/content/smil:video/movies/balu_mahi-2017/movie/Balu_Mahi_HD.smil/manifest.m3u8
+#EXTINF:-1,MOVIE 2
+https://d1jfc1x2reg057.cloudfront.net/titan/_definst_/vidly_vod/content/smil:video/pakistani/na_maloom_afraad_2-2017/movie/Na_Maloom_Afraad_2_HD.smil/manifest.m3u8
+#EXTINF:-1,KHEEL
+https://d1jfc1x2reg057.cloudfront.net/titan/_definst_/vidly_vod/content/smil:video/movies/khel-2022/movie/KHEL_HD.smil/manifest.m3u8
 
+#EXTINF:-1,MOVIE 3
+https://d1jfc1x2reg057.cloudfront.net/titan/_definst_/vidly_vod/content/smil:video/movies/doda-2022/movie/DODA_Part_01_HD.smil/manifest.m3u8
 
+#EXTINF:-1,RAMCHANG PAKI
+https://d1jfc1x2reg057.cloudfront.net/titan/_definst_/vidly_vod/content/smil:video/movies/ramchand_pakistani-2023/movie/Ramchand_Pakistani_HD.smil/manifest.m3u8
+
+#EXTINF:-1,MOVIE 4
+https://d1jfc1x2reg057.cloudfront.net/titan/_definst_/vidly_vod/content/smil:video/movies/lockdown_370-2023/movie/Lockdown_370_HD.smil/manifest.m3u8
 #EXTINF:-1,ANIMAL PLANET
 http://103.49.69.156:8000/play/a011/index.m3u8
 
