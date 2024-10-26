@@ -55,7 +55,10 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="HINDI",SHEMAROO FILMY GAANE
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/c80a70b7-08fa-4f36-8578-88a3da022708/0.m3u8
-
+#EXTINF:-1,Times TV 
+http://208.86.19.13:81/513.stream/index.m3u8
+#EXTINF:-1,Hollywood HD
+http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1,REVOLT US
 http://143.244.60.30/REVOLT/manifest.m3u8
 #EXTINF:-1,MOVIE 1
