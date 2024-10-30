@@ -57,7 +57,10 @@ http://208.86.19.13:81/513.stream/index.m3u8
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1,REVOLT US
 http://143.244.60.30/REVOLT/manifest.m3u8
-
+#EXTINF:-1,WWE
+http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/11645.ts
+#EXTINF:-1,Real Madrid En
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1,ANIMAL PLANET
 http://103.49.69.156:8000/play/a011/index.m3u8
 
