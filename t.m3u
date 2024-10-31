@@ -63,4 +63,36 @@ http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/11645.ts
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1,ANIMAL PLANET
 http://103.49.69.156:8000/play/a011/index.m3u8
+#EXTINF:-1, RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,&PRIVE HD
+http://119.156.26.155:8000/play/a07j/index.m3u8
+#EXTINF:-1,&flix HD
+http://119.156.26.155:8000/play/a06x/index.m3u8
+#EXTINF:-1,&pictures HD
+http://119.156.26.155:8000/play/a07e/index.m3u8
+#EXTINF:-1,MAX HD
+http://119.156.26.155:8000/play/a06e/index.m3u8
+#EXTINF:-1,MNX HD
+http://119.156.26.155:8000/play/a06o/index.m3u8
+#EXTINF:-1,MOVIE NOW
+http://119.156.26.155:8000/play/a066/index.m3u8
+#EXTINF:-1,NAT Geo Wild HD
+http://119.156.26.155:8000/play/a06f/index.m3u8
+#EXTINF:-1,HINDI HITS HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1,V2BEAT
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF:-1,SONY MAX 2
+http://119.156.26.155:8000/play/a07r/index.m3u8
+#EXTINF:-1,SONY PAL
+http://119.156.26.155:8000/play/a072/index.m3u8
+#EXTINF:-1,𝙒𝙞𝙡𝙙 𝙀𝙖𝙧𝙩𝙝(𝘽𝘿)
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1,Explore tv
+https://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,𝙕𝙤𝙤 𝙈𝙤𝙤
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 
