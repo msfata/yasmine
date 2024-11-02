@@ -21,40 +21,23 @@ http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b08612
 
 #EXTINF:-1,BAHAR TV
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
-
+#EXTINF:-1,Afghan Nobel 
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
 #EXTINF:-1,NOBEL MOVIES
 https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/chunklist_w2113308771.m3u8
 #EXTINF:-1,Hasti TV 
 https://live.hastitv.com/hls/livetv.m3u8
-#EXTM3U
-#EXTINF:-1 tvg-id="Badakhshon.tj",Badakhshon (576p)
-https://live.teleradiocom.tj/11/3m.m3u8
-#EXTINF:-1 tvg-id="DushanbeHD.tj",Dushanbe HD (1080p)
-https://live.teleradiocom.tj/7/3m.m3u8
-#EXTINF:-1 tvg-id="Futbol.tj",Futbol (1080p)
-https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 tvg-id="IlmvaTabiat.tj",Ilm va Tabiat (1080p)
-https://live.teleradiocom.tj/15/3m.m3u8
-#EXTINF:-1 tvg-id="Jahonnamo.tj",Jahonnamo (1080p)
-https://live.teleradiocom.tj/4/3m.m3u8
-#EXTINF:-1 tvg-id="Khatlon.tj",Khatlon (576p)
-https://live.teleradiocom.tj/10/3m.m3u8
-#EXTINF:-1 tvg-id="Tojikiston.tj",Tajikistan (1080p)
-https://live.teleradiocom.tj/1/3m.m3u8
-#EXTINF:-1 tvg-id="TMT.tj",TMT (1080p)
-https://live.teleradiocom.tj/9/3m.m3u8
-#EXTINF:-1 tvg-id="TVBahoriston.tj",TV Bahoriston (1080p)
-https://live.teleradiocom.tj/3/3m.m3u8
-#EXTINF:-1 tvg-id="TVKulob.tj",TV Kulob (576p)
-https://live.teleradiocom.tj/12/3m.m3u8
-#EXTINF:-1 tvg-id="TVSafina.tj",TV Safina (1080p)
-https://live.teleradiocom.tj/2/3m.m3u8
-#EXTINF:-1 tvg-id="TVSayohi.tj",TV Sayohi (1080p)
-https://live.teleradiocom.tj/16/3m.m3u8
-#EXTINF:-1 tvg-id="TVSinamo.tj",TV Sinamo (1080p)
-https://live.teleradiocom.tj/6/3m.m3u8
-#EXTINF:-1 tvg-id="TVSugd.tj",TV Sugd (1080p)
-https://live.teleradiocom.tj/14/3m.m3u8
+#EXTINF:-1,MUSIC ENG Turkish
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w714533803.m3u8
+#EXTINF:-1,MUSIC Turkish
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1, BARIN MOVIES 
+http://baskhd.ddns.net:40/live//barinmovieSHD/chunklist_w1584558241.m3u8
+#EXTINF:-1,MMN MOVIES
+http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
+
+#EXTINF:-1,#EXTGRP:4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1,Zee Cinema
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6642/index.m3u8
@@ -134,4 +117,14 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1,Geo Kahani (360p)
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1,Sports
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1,Sports 1
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1,Sports 2
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1,Sports HD
+http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
+#EXTINF:-1, NEKAH TV
+http://v2.catcast.tv/content/40504/index.m3u8
 
