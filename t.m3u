@@ -47,6 +47,8 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1,ZEE BOLLYWOOD
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+#EXTINF:-1,B4U Movies IN
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6569/index.m3u8
 #EXTINF:-1,SONY MAX 2
 http://103.49.69.156:8000/play/a02f/index.m3u8
 #EXTINF:-1 group-title="HINDI",B4U KADAK
@@ -59,8 +61,12 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6596/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1,Zing IN
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6589/index.m3u8
 #EXTINF:-1,COLOR CINEPLEX BOLLYWOOD
 http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=4246&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1,Colors Rishtey IN
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6586/index.m3u8
 #EXTINF:-1 group-title="Hindi",JOO
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 ,YRF Music HD
@@ -105,6 +111,12 @@ https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 http://119.156.26.155:8000/play/a07r/index.m3u8
 #EXTINF:-1,SONY PAL
 http://119.156.26.155:8000/play/a072/index.m3u8
+#EXTINF:-1,ARY Digital IN
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6719/index.m3u8
+#EXTINF:-1,HUM TV IN
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6730/index.m3u8
+#EXTINF:-1,HUM Sitaray IN
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6731/index.m3u8
 #EXTINF:-1,𝙒𝙞𝙡𝙙 𝙀𝙖𝙧𝙩𝙝(𝘽𝘿)
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1,Explore tv
@@ -129,4 +141,12 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 http://v2.catcast.tv/content/40504/index.m3u8
 #EXTINF:-1,Bean QT
 http://175.107.244.52:4457/play/a070/index.m3u8
+#EXTINF:-1,Kanal 4 HD DK
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/7358/index.m3u8
+#EXTINF:-1,C More Sport 1 HD FI
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/2541/index.m3u8
+#EXTINF:-1,TV 6 HD SE
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/12068/index.m3u8
+#EXTINF:-1,TV 3 HD SE
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/12066/index.m3u8
 
