@@ -24,16 +24,50 @@ https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:-1, BARIN MOVIES 
 http://baskhd.ddns.net:40/live//barinmovieSHD/chunklist_w1584558241.m3u8
 
-#EXTINF:-1 ,ZEE CINEMA HD
-http://119.156.26.155:8000/play/a076/index.m3u8
-#EXTINF:-1,Zee Cinema
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6642/index.m3u8
+
+#EXTINF:-1 group-title="HINDI",BOLLYWOOD SHEMAROO
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="HINDI",BOLLYWOOD PRIME
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:-1 group-title="India",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 ,BollywoodHD 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1,ZEE BOLLYWOOD
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+#EXTINF:-1 group-title="Hindi",JOO
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 ,YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 ,STAR GOLD ROMANCE
+http://119.156.26.155:8000/play/a07o/index.m3u8
+#EXTINF:-1 ,STAR GOLD
+http://119.156.26.155:8000/play/a07n/index.m3u8
+#EXTINF:-1 ,ZEE CINEMA HD
+http://119.156.26.155:8000/play/a076/index.m3u8
+#EXTINF:-1,&pictures HD
+http://119.156.26.155:8000/play/a07e/index.m3u8
+#EXTINF:-1,SONY MAX 2
+http://119.156.26.155:8000/play/a07r/index.m3u8
+#EXTINF:-1,STAR MOVIE HD
+http://119.156.26.155:8000/play/a06p/index.m3u8
+#EXTINF:-1 ,Star Plus HD
+http://119.156.26.155:8000/play/a06u/index.m3u8
+#EXTINF:-1,SONY PAL
+http://119.156.26.155:8000/play/a072/index.m3u8
+#EXTINF:-1,SONY HD
+http://119.156.26.155:8000/play/a06y/index.m3u8
+#EXTINF:-1,SAB HD
+http://119.156.26.155:8000/play/a075/index.m3u8
+#EXTINF:-1,PIX HD
+http://119.156.26.155:8000/play/a07d/index.m3u8
+#EXTINF:-1,MOVIE NOW
+http://119.156.26.155:8000/play/a066/index.m3u8
+#EXTINF:-1,MNX HD
+http://119.156.26.155:8000/play/a06o/index.m3u8
+
+#EXTINF:-1,Zee Cinema
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6642/index.m3u8
 #EXTINF:-1,B4U Movies IN
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6569/index.m3u8
 #EXTINF:-1,SONY MAX 2
@@ -44,18 +78,12 @@ http://cdn2.pishow.tv/live/160/master.m3u8
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
 #EXTINF:-1 ,Zee Classic
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6596/index.m3u8
-#EXTINF:-1 group-title="HINDI",BOLLYWOOD SHEMAROO
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 group-title="HINDI",BOLLYWOOD PRIME
-https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+
 #EXTINF:-1,COLOR CINEPLEX BOLLYWOOD
 http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1,Colors Rishtey IN
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6586/index.m3u8
-#EXTINF:-1 group-title="Hindi",JOO
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 ,YRF Music HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
 #EXTINF:-1 group-title="HINDI",SHEMAROO FILMY GAANE
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/c80a70b7-08fa-4f36-8578-88a3da022708/0.m3u8
 #EXTINF:-1,Times TV 
@@ -123,5 +151,13 @@ http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1, ANIMAL PLANET 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 ,Star Sports Select 1 HD
+http://119.156.26.155:8000/play/a07f/index.m3u8
+#EXTINF:-1,STAR SPORT SELECT 
+http://119.156.26.155:8000/play/a07g/index.m3u8
+#EXTINF:-1,SONY 5 HD
+http://119.156.26.155:8000/play/a06c/index.m3u8
+#EXTINF:-1,National Geographic HD
+http://119.156.26.155:8000/play/a06r/index.m3u8
 
 
