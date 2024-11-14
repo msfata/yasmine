@@ -26,48 +26,29 @@ https://live.hastitv.com/hls/livetv.m3u8
 http://119.156.26.155:8000/play/a07j/index.m3u8
 #EXTINF:-1, &FLIX
 http://119.156.26.155:8000/play/a06x/index.m3u8
-#EXTINF:-1,BOLLYWOOD MASALA
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
+
+#EXTINF:-1,ZEE BOLLYWOOD
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+#EXTINF:-1 group-title="India",The Movie Club
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1,BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1,BOLLYWOOD CLASSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1,The Movie Club
-https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-#EXTINF:-1,Star Gold Select
-http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91622.ts
-#EXTINF:-1,Sony Max
-http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91607.ts
-#EXTINF:-1, EXPLORE
-http://144.217.70.181:9587/hin2/&EXPLORE/index.m3u8
-#EXTINF:-1 group-title="HINDI", STAR GOLD ROMANCE
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI", STAR GOLD HD
-http://144.217.70.181:9587/hin2/STARGOLDUK/index.m3u8
-#EXTINF:-1, ZEE CINEMA HD
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/index.m3u8
-#EXTINF:-1,SONY MAX HD
-http://144.217.70.181:9587/hin2/SONYMAXHD/index.m3u8
-#EXTINF:-1, PICTURE HD
-http://144.217.70.181:9587/hin2/&PICTUREHD/index.m3u8
-#EXTINF:-1,ZEE CLASSIC HD
-http://144.217.70.181:9587/hin2/ZEECLASSICHD/index.m3u8
+
+
 #EXTINF:-1 tvg-logo=""group-title="HINDI MOVIES" group-title="",SHEMAROO BOLLYWOOD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD SHEMAROO
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD PRIME
-https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-#EXTINF:-1 group-title="India",The Movie Club
-https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-#EXTINF:-1 ,BollywoodHD 
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1,ZEE BOLLYWOOD
-http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u
+
 #EXTINF:-1 group-title="Hindi",JOO
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 ,YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
 #EXTINF:-1 ,STAR GOLD ROMANCE
 http://119.156.26.155:8000/play/a07o/index.m3u8
 #EXTINF:-1 ,STAR GOLD
@@ -126,8 +107,6 @@ http://144.217.70.181:9587/hin2/STARBHARATUK/index.m3u8
 
 #EXTINF:-1 group-title="HINDI",SHEMAROO FILMY GAANE
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/c80a70b7-08fa-4f36-8578-88a3da022708/0.m3u8
-#EXTINF:-1,Times TV 
-http://208.86.19.13:81/513.stream/index.m3u8
 #EXTINF:-1,Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1,REVOLT US
