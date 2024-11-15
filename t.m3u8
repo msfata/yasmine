@@ -186,5 +186,9 @@ http://119.156.26.155:8000/play/a06r/index.m3u8
 http://baskhd.ddns.net:40/live//barinmovieSHD/chunklist_w1584558241.m3u8
 #EXTINF:-1, SKY ACTION
 http://gcp-dash.ngslbs.com/TVD015/index.mpd
+#EXTINF:-1, PANJARAH MOVIE
+https://mytorin.online/movies/panjereh/index.m3u8
+#EXTINF:-1,Муз ТВ
+http://stream01.vnet.am/MuzTv/mono.m3u8
 
 
