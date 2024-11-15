@@ -27,6 +27,10 @@ http://119.156.26.155:8000/play/a07j/index.m3u8
 #EXTINF:-1, &FLIX
 http://119.156.26.155:8000/play/a06x/index.m3u8
 
+#EXTINF:-1,STAR GOLD
+http://119.156.26.155:8000/play/a079/index.m3u8
+#EXTINF:-1,ZEE CINEMA
+http://119.156.26.155:8000/play/a076/index.m3u8
 #EXTINF:-1,ZEE BOLLYWOOD
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:-1 group-title="India",The Movie Club
@@ -190,5 +194,9 @@ http://gcp-dash.ngslbs.com/TVD015/index.mpd
 https://mytorin.online/movies/panjereh/index.m3u8
 #EXTINF:-1,Муз ТВ
 http://stream01.vnet.am/MuzTv/mono.m3u8
+#EXTINF:-1,CRICKET
+http://119.156.26.155:8000/play/a069/index.m3u8
+#EXTINF:-1,ENGLISH
+http://119.156.26.155:8000/play/a065/index.m3u8
 
 
