@@ -197,5 +197,7 @@ http://119.156.26.155:8000/play/a07j/index.m3u8
 http://119.156.26.155:8000/play/a06x/index.m3u8
 #EXTINF:-1,ENGLISH
 http://119.156.26.155:8000/play/a065/index.m3u8
+#EXTINF:-1,CRECKET
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 
