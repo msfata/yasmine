@@ -219,5 +219,7 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8
 #EXTINF:-1,HorrorXtra Ⓢ
 http://92.114.85.81:8000/play/a01m/index.m3u8
+#EXTINF:-1,English Movies
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/monarch/master.m3u8
 
 
