@@ -25,9 +25,31 @@ https://live.hastitv.com/hls/livetv.m3u8
 https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
-#EXTINF:-1,EPIC
-https://epiconvh.s.llnwi.net/epic/master.m3u8
 
+#EXTINF:-1,HBO
+http://103.110.110.11:8081/live/hbo/playlist.m3u8
+#EXTINF:-1,Zee Anmol Cinema 2
+http://172.105.123.238:18002/play/a024
+#EXTINF:-1,Star Ustsab Movies
+http://172.105.123.238:18002/play/a01n
+#EXTINF:-1,Goldmines Movies
+http://172.105.123.238:18002/play/a01j
+#EXTINF:-1,Goldminnes Thtills
+http://172.105.123.238:18002/play/a01h
+#EXTINF:-1,Rishtey Cinaplax
+http://172.105.123.238:18002/play/a015
+#EXTINF:-1,Colors Cineplex Bollywood
+http://172.105.123.238:18002/play/a011
+#EXTINF:-1,And Pictures HD
+https://la.drmlive.au/tp/zee-pictures.m3u8
+#EXTINF:-1 ,ZEE CINEMA HINDI
+https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
+#EXTINF:-1 ,ZEE ACTION
+https://la.drmlive.au/tp/zee-zeeaction.m3u8
+#EXTINF:-1 ,ZEE CINEMA 
+https://la.drmlive.au/tp/zee-zeecinema.m3u8
+#EXTINF:-1 ,ZEE CINEMA HD new
+http://bb.thenayeemparvez.xyz/ZeeCinemaFHD/index.m3u8
 #EXTINF:-1 ,ZEE CINEMA HD
 http://119.156.26.155:8000/play/a076/index.m3u8
 #EXTINF:-1 group-title="India",The Movie Club
