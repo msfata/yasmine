@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1 group-title="AFGHANISTAN", 1 TV
 https://cdn1.live.af/live/1tv.m3u8
@@ -28,8 +29,34 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
 #EXTINF:-1,HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
-#EXTINF:-1,Zee Anmol Cinema 2
-http://172.105.123.238:18002/play/a024
+#EXTINF:-1,STAR GOLD
+http://119.156.26.155:8000/play/a079/index.m3u8
+#EXTINF:-1,ZEE CINEMA
+https://tsneh.vercel.app/zeecinema.m3u8
+#EXTINF:-1 ,ZEE CINEMA HD 
+http://bb.thenayeemparvez.xyz/ZeeCinemaFHD/index.m3u8
+#EXTINF:-1 ,ZEE CINEMA HD
+http://119.156.26.155:8000/play/a076/index.m3u8
+#EXTINF:-1,ZEE BOLLYWOOD
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+#EXTINF:-1 group-title="India",The Movie Club
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+#EXTINF:-1,BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1,BOLLYWOOD CLASSIC
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 tvg-logo=""group-title="HINDI MOVIES" group-title="",SHEMAROO BOLLYWOOD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
+#EXTINF:-1 group-title="HINDI",BOLLYWOOD SHEMAROO
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="HINDI",BOLLYWOOD PRIME
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u
+#EXTINF:-1,ZEE ACTION 1
+http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=4246&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 group-title="Hindi",JOO
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 ,YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1,Star Ustsab Movies
 http://172.105.123.238:18002/play/a01n
 #EXTINF:-1,Goldmines Movies
@@ -40,52 +67,6 @@ http://172.105.123.238:18002/play/a01h
 http://172.105.123.238:18002/play/a015
 #EXTINF:-1,Colors Cineplex Bollywood
 http://172.105.123.238:18002/play/a011
-#EXTINF:-1,And Pictures HD
-https://la.drmlive.au/tp/zee-pictures.m3u8
-#EXTINF:-1 ,ZEE CINEMA HINDI
-https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
-#EXTINF:-1 ,ZEE ACTION
-https://la.drmlive.au/tp/zee-zeeaction.m3u8
-#EXTINF:-1 ,ZEE CINEMA 
-https://la.drmlive.au/tp/zee-zeecinema.m3u8
-#EXTINF:-1 ,ZEE CINEMA HD new
-http://bb.thenayeemparvez.xyz/ZeeCinemaFHD/index.m3u8
-#EXTINF:-1 ,ZEE CINEMA HD
-http://119.156.26.155:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="India",The Movie Club
-https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-#EXTINF:-1,BOLLYWOOD HD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1,BOLLYWOOD CLASSIC
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1,SHEMAROO BOLLYWOOD (IN)
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="HINDI MOVIES" group-title="",SHEMAROO BOLLYWOOD
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
-#EXTINF:-1 group-title="HINDI",BOLLYWOOD SHEMAROO
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 group-title="HINDI",BOLLYWOOD PRIME
-https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u
-#EXTINF:-1,STAR GOLD
-http://119.156.26.155:8000/play/a079/index.m3u8
-#EXTINF:-1,ZEE CINEMA
-https://tsneh.vercel.app/zeecinema.m3u8
-#EXTINF:-1,ZEE CINEMA HD
-http://119.156.26.155:8000/play/a076/index.m3u8
-#EXTINF:-1,ZEE BOLLYWOOD
-http://212.102.34.8:9080/ZeeBollywood/video.m3u8
-
-#EXTINF:3,Zee Action
-http://stream.zeefamily.tv/zeecinemauk/index.m3u8 
-#EXTINF:-1,ZEE ACTION 1
-http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=4246&deviceMac=00:1A:79:99:EC:D3
-
-
-#EXTINF:-1 group-title="Hindi",JOO
-https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 ,YRF Music HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-
 #EXTINF:-1 ,STAR GOLD ROMANCE
 http://119.156.26.155:8000/play/a07o/index.m3u8
 #EXTINF:-1 ,STAR GOLD
