@@ -29,16 +29,15 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
 #EXTINF:-1,HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
-#EXTINF:-1,STAR GOLD
-http://119.156.26.155:8000/play/a079/index.m3u8
-#EXTINF:-1,ZEE CINEMA
-https://tsneh.vercel.app/zeecinema.m3u8
-#EXTINF:-1 ,ZEE CINEMA HD 
-http://bb.thenayeemparvez.xyz/ZeeCinemaFHD/index.m3u8
-#EXTINF:-1 ,ZEE CINEMA HD
-http://119.156.26.155:8000/play/a076/index.m3u8
+#EXTINF:-1,Kids Movie Club
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1,ZEE BOLLYWOOD
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+#EXTINF:-1 ,ZEE CINEMA HD
+http://119.156.26.155:8000/play/a076/index.m3u8
+#EXTINF:-1,STAR GOLD
+http://119.156.26.155:8000/play/a079/index.m3u8
 #EXTINF:-1 group-title="India",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1,BOLLYWOOD HD
@@ -55,6 +54,7 @@ https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u
 http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 group-title="Hindi",JOO
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
 #EXTINF:-1 ,YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1,Star Ustsab Movies
