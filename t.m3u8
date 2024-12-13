@@ -1,5 +1,7 @@
 
 #EXTM3U
+#EXTINF:-1,Euronews English
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN", 1 TV
 https://cdn1.live.af/live/1tv.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",TOLO TV
@@ -26,7 +28,8 @@ https://live.hastitv.com/hls/livetv.m3u8
 https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
-
+#EXTINF:-1,Hits Now
+https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
 #EXTINF:-1,HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1,Kids Movie Club
@@ -58,6 +61,10 @@ http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6596/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 group-title="Hindi",JOO
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1,BOLLYWOOD ARABIC
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
+
 #EXTINF:-1,COLOR CINEPLEX BOLLYWOOD
 http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 ,Color Cineplix Superhit
