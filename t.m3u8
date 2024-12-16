@@ -40,6 +40,7 @@ http://119.156.26.155:8000/play/a07d/index.m3u8
 http://119.156.26.155:8000/play/a066/index.m3u8
 #EXTINF:-1 ,&FLIX HD
 http://119.152.240.15:8001/play/a0b5/index.m3u8
+
 #EXTINF:-1 group-title="India",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 ,BOLLYWOOD HD
@@ -52,11 +53,13 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 ,ZEE BOLLYWOOD
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
-#EXTINF:-1 ,ZEE CINEMA HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema HD
 http://119.156.26.155:8000/play/a076/index.m3u8
-#EXTINF:-1 ,STAR GOLD ROMANCE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Hindi Movies",Zee Cinema
+https://la.drmlive.au/tp/zee-zeecinema.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Hindi Movies",Star Gold Romance
 http://119.156.26.155:8000/play/a07o/index.m3u8
-#EXTINF:-1 ,STAR GOLD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Hindi Movies",Star Gold
 http://119.156.26.155:8000/play/a079/index.m3u8
 #EXTINF:-1 ,Star Gold Select HD
 http://119.156.26.155:8000/play/a07b/index.m3u8
@@ -72,7 +75,7 @@ http://119.152.240.15:8001/play/a0b4/index.m3u8
 http://119.152.240.15:8001/play/a0k0/index.m3u8
 #EXTINF:-1 ,Zee Classic
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6596/index.m3u8
-#EXTINF:-1 ,ZEE ACTION 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="Hindi Movies",Zee Action
 http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 group-title="Hindi",JOO
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
