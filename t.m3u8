@@ -29,14 +29,26 @@ https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
+#EXTINF:-1,STAR LIFE
+http://119.152.240.15:8001/play/a0j8/index.m3u8
 #EXTINF:-1,Hits Now
 https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
+#EXTINF:-1,&FLIX HD
+http://119.152.240.15:8001/play/a0b5/index.m3u8
 #EXTINF:-1,HBO
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
+#EXTINF:-1,STAR MOVIES SELECT
+http://119.152.240.15:8001/play/a0i1/index.m3u8
+#EXTINF:-1,COLOR HD
+http://119.152.240.15:8001/play/a0b4/index.m3u8
+#EXTINF:-1,&PICTURE HD
+http://119.152.240.15:8001/play/a0h7/index.m3u8
 #EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max 2
 http://119.152.240.15:8001/play/a0j7/index.m3u8
 #EXTINF:-1,ZEE BOLLYWOOD
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+#EXTINF:-1,ZEE BOLLYWOOD BACK UP
+http://119.152.240.15:8001/play/a0k0/index.m3u8
 #EXTINF:-1 ,ZEE CINEMA HD
 http://119.156.26.155:8000/play/a076/index.m3u8
 #EXTINF:-1,STAR GOLD
