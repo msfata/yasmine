@@ -29,221 +29,175 @@ https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
-#EXTINF:-1,STAR LIFE
-http://119.152.240.15:8001/play/a0j8/index.m3u8
-#EXTINF:-1,Hits Now
-https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
-#EXTINF:-1,&FLIX HD
-http://119.152.240.15:8001/play/a0b5/index.m3u8
-#EXTINF:-1,HBO
-http://103.110.110.11:8081/live/hbo/playlist.m3u8
-#EXTINF:-1,STAR MOVIES SELECT
+#EXTM3U
+#EXTINF:-1 ,STAR MOVIE HD
+http://119.156.26.155:8000/play/a06p/index.m3u8
+#EXTINF:-1 ,STAR MOVIES SELECT
 http://119.152.240.15:8001/play/a0i1/index.m3u8
-#EXTINF:-1,COLOR HD
-http://119.152.240.15:8001/play/a0b4/index.m3u8
-#EXTINF:-1,&PICTURE HD
-http://119.152.240.15:8001/play/a0h7/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/T3yTcTHZ/Sony-Max-HD.jpg",Sony Max 2
-http://119.152.240.15:8001/play/a0j7/index.m3u8
-#EXTINF:-1,ZEE BOLLYWOOD
-http://212.102.34.8:9080/ZeeBollywood/video.m3u8
-#EXTINF:-1,ZEE BOLLYWOOD BACK UP
-http://119.152.240.15:8001/play/a0k0/index.m3u8
-#EXTINF:-1 ,ZEE CINEMA HD
-http://119.156.26.155:8000/play/a076/index.m3u8
-#EXTINF:-1,STAR GOLD
-http://119.156.26.155:8000/play/a079/index.m3u8
+#EXTINF:-1 ,PIX HD
+http://119.156.26.155:8000/play/a07d/index.m3u8
+#EXTINF:-1 ,MOVIE NOW
+http://119.156.26.155:8000/play/a066/index.m3u8
+#EXTINF:-1 ,&FLIX HD
+http://119.152.240.15:8001/play/a0b5/index.m3u8
 #EXTINF:-1 group-title="India",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-#EXTINF:-1,BOLLYWOOD HD
+#EXTINF:-1 ,BOLLYWOOD HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
-#EXTINF:-1,BOLLYWOOD CLASSIC
+#EXTINF:-1 ,BOLLYWOOD CLASSIC
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1 tvg-logo=""group-title="HINDI MOVIES" group-title="",SHEMAROO BOLLYWOOD
+#EXTINF:-1 group-title="HINDI MOVIES",SHEMAROO BOLLYWOOD
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD SHEMAROO
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 group-title="HINDI",BOLLYWOOD PRIME
-https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u
-#EXTINF:-1,Zee Classic
+#EXTINF:-1 ,ZEE BOLLYWOOD
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+#EXTINF:-1 ,ZEE CINEMA HD
+http://119.156.26.155:8000/play/a076/index.m3u8
+#EXTINF:-1 ,STAR GOLD ROMANCE
+http://119.156.26.155:8000/play/a07o/index.m3u8
+#EXTINF:-1 ,STAR GOLD
+http://119.156.26.155:8000/play/a079/index.m3u8
+#EXTINF:-1 ,Star Gold Select HD
+http://119.156.26.155:8000/play/a07b/index.m3u8
+#EXTINF:-1 ,MAX HD
+http://119.156.26.155:8000/play/a06e/index.m3u8
+#EXTINF:-1 ,&PICTURE HD
+http://119.152.240.15:8001/play/a0h7/index.m3u8
+#EXTINF:-1 group-title="India",Sony Max 2
+http://119.152.240.15:8001/play/a0j7/index.m3u8
+#EXTINF:-1 ,COLOR HD
+http://119.152.240.15:8001/play/a0b4/index.m3u8
+#EXTINF:-1 ,ZEE BOLLYWOOD BACK UP
+http://119.152.240.15:8001/play/a0k0/index.m3u8
+#EXTINF:-1 ,Zee Classic
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6596/index.m3u8
-#EXTINF:-1,ZEE ACTION 1
+#EXTINF:-1 ,ZEE ACTION 1
 http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=4246&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 group-title="Hindi",JOO
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1,BOLLYWOOD ARABIC
+#EXTINF:-1 ,BOLLYWOOD ARABIC
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-
-#EXTINF:-1,COLOR CINEPLEX BOLLYWOOD
-http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=4246&deviceMac=00:1A:79:99:EC:D3
-
 #EXTINF:-1 ,YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1,Star Ustsab Movies
-http://172.105.123.238:18002/play/a01n
-#EXTINF:-1,Goldmines Movies
-http://172.105.123.238:18002/play/a01j
-#EXTINF:-1,Goldminnes Thtills
-http://172.105.123.238:18002/play/a01h
-#EXTINF:-1,Rishtey Cinaplax
-http://172.105.123.238:18002/play/a015
-#EXTINF:-1,Colors Cineplex Bollywood
-http://172.105.123.238:18002/play/a011
 #EXTINF:-1 ,STAR GOLD ROMANCE
 http://119.156.26.155:8000/play/a07o/index.m3u8
 #EXTINF:-1 ,STAR GOLD
 http://119.156.26.155:8000/play/a07n/index.m3u8
 #EXTINF:-1 ,ZEE CINEMA HD
 http://119.156.26.155:8000/play/a076/index.m3u8
-#EXTINF:-1,&pictures HD
+#EXTINF:-1 ,&pictures HD
 http://119.156.26.155:8000/play/a07e/index.m3u8
-#EXTINF:-1,SONY MAX 2
+#EXTINF:-1 ,SONY MAX 2
 http://119.156.26.155:8000/play/a07r/index.m3u8
-#EXTINF:-1,STAR MOVIE HD
+#EXTINF:-1 ,STAR MOVIE HD
 http://119.156.26.155:8000/play/a06p/index.m3u8
 #EXTINF:-1 ,Star Plus HD
 http://119.156.26.155:8000/play/a06u/index.m3u8
-#EXTINF:-1,SONY PAL
+#EXTINF:-1 ,SONY PAL
 http://119.156.26.155:8000/play/a072/index.m3u8
-#EXTINF:-1,SONY HD
+#EXTINF:-1 ,SONY HD
 http://119.156.26.155:8000/play/a06y/index.m3u8
-#EXTINF:-1,SAB HD
+#EXTINF:-1 ,SAB HD
 http://119.156.26.155:8000/play/a075/index.m3u8
-#EXTINF:-1,PIX HD
+#EXTINF:-1 ,PIX HD
 http://119.156.26.155:8000/play/a07d/index.m3u8
-#EXTINF:-1,MOVIE NOW
+#EXTINF:-1 ,MOVIE NOW
 http://119.156.26.155:8000/play/a066/index.m3u8
-#EXTINF:-1,MNX HD
+#EXTINF:-1 ,MNX HD
 http://119.156.26.155:8000/play/a06o/index.m3u8
-#EXTINF:-1,ZEE TV
-http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
-#EXTINF:-1,Zee Cinema
+#EXTINF:-1 ,Zee Cinema
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6642/index.m3u8
-#EXTINF:-1,B4U Movies IN
+#EXTINF:-1 ,B4U Movies IN
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6569/index.m3u8
-#EXTINF:-1,SONY MAX 2
-http://103.49.69.156:8000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="HINDI",B4U KADAK
-http://cdn2.pishow.tv/live/160/master.m3u8
-
 #EXTINF:-1 ,Zee Classic
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6596/index.m3u8
-#EXTINF:-1 group-title="India" tvg-logo="https://i.postimg.cc/QCGRcWyM/Star-Bharat-HD.jpg",Star Bharat HD
+#EXTINF:-1 group-title="India",Star Bharat HD
 http://119.152.240.15:8001/play/a0jl/index.m3u8
-
-#EXTINF:-1,Colors Rishtey IN
+#EXTINF:-1 ,Colors Rishtey IN
 http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6586/index.m3u8
-#EXTINF:-1,STAR PLUS
-http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
-#EXTINF:-1,STAR PLUS UK
-http://144.217.70.181:9587/hin2/STARPLUSUK/index.m3u8
-#EXTINF:-1,COLOR HD
-http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
-#EXTINF:-1,COLOR UK
-http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
-#EXTINF:-1, STAR BHARAT
-http://144.217.70.181:9587/hin2/STARBHARATUK/index.m3u8
-
 #EXTINF:-1 group-title="HINDI",SHEMAROO FILMY GAANE
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/c80a70b7-08fa-4f36-8578-88a3da022708/0.m3u8
-#EXTINF:-1,Hollywood HD
+#EXTINF:-1 ,Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
-#EXTINF:-1,REVOLT US
+#EXTINF:-1 ,REVOLT US
 http://143.244.60.30/REVOLT/manifest.m3u8
-#EXTINF:-1,WWE
+#EXTINF:-1 ,WWE
 http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/11645.ts
-#EXTINF:-1,Real Madrid En
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://103.49.69.156:8000/play/a011/index.m3u8
-#EXTINF:-1, RED BULL TV
+#EXTINF:-1 ,RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1,&PRIVE HD
+#EXTINF:-1 ,&PRIVE HD
 http://119.156.26.155:8000/play/a07j/index.m3u8
-#EXTINF:-1,&flix HD
+#EXTINF:-1 ,&flix HD
 http://119.156.26.155:8000/play/a06x/index.m3u8
-#EXTINF:-1,&pictures HD
+#EXTINF:-1 ,&pictures HD
 http://119.156.26.155:8000/play/a07e/index.m3u8
-#EXTINF:-1,MAX HD
+#EXTINF:-1 ,MAX HD
 http://119.156.26.155:8000/play/a06e/index.m3u8
-#EXTINF:-1,MNX HD
+#EXTINF:-1 ,MNX HD
 http://119.156.26.155:8000/play/a06o/index.m3u8
-#EXTINF:-1,MOVIE NOW
+#EXTINF:-1 ,MOVIE NOW
 http://119.156.26.155:8000/play/a066/index.m3u8
-#EXTINF:-1,NAT Geo Wild HD
+#EXTINF:-1 ,NAT Geo Wild HD
 http://119.156.26.155:8000/play/a06f/index.m3u8
-#EXTINF:-1,HINDI HITS HD
+#EXTINF:-1 ,HINDI HITS HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1,V2BEAT
+#EXTINF:-1 ,V2BEAT
 https://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
+#EXTINF:-1 ,ANIMAL PLANET HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1,SONY MAX 2
+#EXTINF:-1 ,SONY MAX 2
 http://119.156.26.155:8000/play/a07r/index.m3u8
-#EXTINF:-1,SONY PAL
+#EXTINF:-1 ,SONY PAL
 http://119.156.26.155:8000/play/a072/index.m3u8
-
-#EXTINF:-1,𝙒𝙞𝙡𝙙 𝙀𝙖𝙧𝙩𝙝(𝘽𝘿)
+#EXTINF:-1 ,𝙒𝙞𝙡𝙙 𝙀𝙖𝙧𝙩𝙝(𝘽𝘿)
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1,Explore tv
+#EXTINF:-1 ,Explore tv
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,𝙕𝙤𝙤 𝙈𝙤𝙤
+#EXTINF:-1 ,𝙕𝙤𝙤 𝙈𝙤𝙤
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1,Sony Kal (1080p)
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1,aurLife HD (614p)
+#EXTINF:-1 ,aurLife HD (614p)
 http://124.109.47.101/hls/stream1.m3u8
-#EXTINF:-1,Geo Kahani (360p)
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1,Sports
+#EXTINF:-1 ,Sports
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1,Sports 1
+#EXTINF:-1 ,Sports 1
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1,Sports 2
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1,Sports HD
+#EXTINF:-1 ,Sports HD
 http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
-#EXTINF:-1,MMN MOVIES
+#EXTINF:-1 ,MMN MOVIES
 http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
-#EXTINF:-1, A HD
-https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
-#EXTINF:-1, ANIMAL PLANET 4K
+#EXTINF:-1 ,ANIMAL PLANET 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 ,Star Sports Select 1 HD
 http://119.156.26.155:8000/play/a07f/index.m3u8
-#EXTINF:-1,STAR SPORT SELECT 
+#EXTINF:-1 ,STAR SPORT SELECT
 http://119.156.26.155:8000/play/a07g/index.m3u8
-#EXTINF:-1,SONY 5 HD
+#EXTINF:-1 ,SONY 5 HD
 http://119.156.26.155:8000/play/a06c/index.m3u8
-#EXTINF:-1, BARBUD
-https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1 ,AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
-#EXTINF:-1,National Geographic HD
+#EXTINF:-1 ,National Geographic HD
 http://119.156.26.155:8000/play/a06r/index.m3u8
-#EXTINF:-1, BARIN MOVIES 
+#EXTINF:-1 ,BARIN MOVIES
 http://baskhd.ddns.net:40/live//barinmovieSHD/chunklist_w1584558241.m3u8
-#EXTINF:-1, SKY ACTION
-http://gcp-dash.ngslbs.com/TVD015/index.mpd
-#EXTINF:-1, PANJARAH MOVIE
+#EXTINF:-1 ,PANJARAH MOVIE
 https://mytorin.online/movies/panjereh/index.m3u8
-#EXTINF:-1,Муз ТВ
+#EXTINF:-1 ,Муз ТВ
 http://stream01.vnet.am/MuzTv/mono.m3u8
-#EXTINF:-1,CRICKET
+#EXTINF:-1 ,CRICKET
 http://119.156.26.155:8000/play/a069/index.m3u8
-#EXTINF:-1, &PRIVE
+#EXTINF:-1 ,&PRIVE
 http://119.156.26.155:8000/play/a07j/index.m3u8
-#EXTINF:-1, &FLIX
+#EXTINF:-1 ,&FLIX
 http://119.156.26.155:8000/play/a06x/index.m3u8
-#EXTINF:-1,ENGLISH
+#EXTINF:-1 ,ENGLISH
 http://119.156.26.155:8000/play/a065/index.m3u8
-#EXTINF:-1,CRECKET
+#EXTINF:-1 ,CRECKET
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="AreWeThereYet.us" tvg-logo="https://i.imgur.com/3BJQiHP.png" group-title="Series",Are we there Yet? 
+#EXTINF:-1 group-title="Series",Are we there Yet?
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8
-#EXTINF:-1,HorrorXtra Ⓢ
+#EXTINF:-1 ,HorrorXtra Ⓢ
 http://92.114.85.81:8000/play/a01m/index.m3u8
-#EXTINF:-1,English Movies
+#EXTINF:-1 ,English Movies
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/monarch/master.m3u8
-
 
