@@ -28,24 +28,36 @@ https://live.hastitv.com/hls/livetv.m3u8
 https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
-
+#EXTINF:-1,ALL TIME MOVIES
+http://103.156.169.82:8000/play/a01a/index.m3u8
 #EXTINF:-1,Only Music
 https://livestream.unlimitedcdn.com/onlymusic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,BOLLYWOOD MUSIC
+http://103.156.169.82:8000/play/a02s/index.m3u8
 #EXTINF:-1,Bollywood Masala
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/08c6bc7c-9035-4098-8d2f-cb11fb2bf16d/1.m3u8
-
+#EXTINF:-1,RETRO CINEMA
+http://103.156.169.82:8000/play/a00g/index.m3u8
 #EXTINF:-1,B4U Kadak
 http://103.156.169.82:8000/play/a00y/index.m3u8
-
+#EXTINF:-1,SHEMAROO BOLLYWOOD
+http://103.156.169.82:8000/play/a01q/index.m3u8
 #EXTINF:-1,Shemaroo Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/b76c4ad2-cc0a-43e3-888f-f3e322cfa56f/0.m3u8
-
+#EXTINF:-1,GOLDMINE
+http://103.156.169.82:8000/play/a02l/index.m3u8
 #EXTINF:-1,GOLDMINE MOVIES
 http://103.156.169.82:8000/play/a01c/index.m3u8
 
 #EXTINF:-1,GOLDMINE BOLLYWOOD
 http://103.156.169.82:8000/play/a011/index.m3u8
-
+#EXTINF:-1,SHEMAROO BOLLYWOOD
+http://103.156.169.82:8000/play/a01q/index.m3u8
+#EXTINF:-1,ABC BOLLYWOOD
+http://103.156.169.82:8000/play/a02u/index.m3u8
+#EXTINF:-1,ABC CLASSIC
+http://103.156.169.82:8000/play/a02w/index.m3u8
 #EXTINF:-1,ABC Premier
 http://103.156.169.82:8000/play/a02t/index.m3u8
 
@@ -63,6 +75,9 @@ http://103.156.169.82:8000/play/a00a/index.m3u8
 
 #EXTINF:-1,Abc Box Office
 http://103.156.169.82:8000/play/a008/index.m3u8
+
+#EXTINF:-1,MANORANJAN MOVIES
+http://103.156.169.82:8000/play/a02q/index.m3u8
 
 #EXTINF:-1 group-title="India",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
