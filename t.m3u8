@@ -31,8 +31,12 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1,Xplore
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 
-#EXTINF:-1,Shemaroo Bollywood
+#EXTINF:-1,BOLLYWOOD MUSIC
+http://103.156.169.82:8000/play/a02s/index.m3u8
+#EXTINF:-1,Shemaroo Bollywood UK
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/b76c4ad2-cc0a-43e3-888f-f3e322cfa56f/0.m3u8
+#EXTINF:-1,Shemaroo Bollywood IN
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1,GOLDMINE BOLLYWOOD
 http://103.156.169.82:8000/play/a011/index.m3u8
 #EXTINF:-1,ABC BOLLYWOOD
@@ -44,8 +48,7 @@ http://103.156.169.82:8000/play/a00c/index.m3u8
 #EXTINF:-1,Abc Picture
 http://103.156.169.82:8000/play/a006/index.m3u8
 
-#EXTINF:-1,BOLLYWOOD MUSIC
-http://103.156.169.82:8000/play/a02s/index.m3u8
+
 #EXTINF:-1,Bollywood Masala
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/08c6bc7c-9035-4098-8d2f-cb11fb2bf16d/1.m3u8
 #EXTINF:-1,RETRO CINEMA
