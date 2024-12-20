@@ -29,14 +29,6 @@ https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
 
-#EXTINF:-1,Xplore
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
-#EXTINF:-1, ANIMALS
-http://176.65.146.108:8022/play/a062/index.m3u8
-#EXTINF:-1,SICKR
-http://176.65.146.108:8022/play/a066/index.m3u8
-#EXTINF:-1,BIGGS
-http://176.65.146.108:8022/play/a07x/index.m3u8
 #EXTINF:-1,CINE MONDO
 http://176.65.146.108:8022/play/a05f/index.m3u8
 #EXTINF:-1,TV CINE EDITION
