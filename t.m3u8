@@ -1,6 +1,7 @@
 
 #EXTM3U
-
+#EXTINF:-1,Zarin Stream
+https://sfo1.angelthump.com/hls/MjAyNC0xMi0yNFQxOTo1NTowNS40NjBaemFyaW4=_zarin/index.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN", 1 TV
 https://cdn1.live.af/live/1tv.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",TOLO TV
