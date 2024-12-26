@@ -28,29 +28,24 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
 #EXTINF:-1 group-title="HINDI",SHEMAROO FILMY GAANE
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/c80a70b7-08fa-4f36-8578-88a3da022708/0.m3u8
-#EXTINF:-1 ,HINDI HITS HD
-http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1,BOLLYWOOD MUSIC
 http://103.156.169.82:8000/play/a02s/index.m3u8
+#EXTINF:-1,ABC MUSIC
+http://103.156.169.82:8000/play/a007/index.m3u8
+#EXTINF:-1,ABC BOX OFFICE
+http://103.156.169.82:8000/play/a008/index.m3u8
 #EXTINF:-1,ABC Super Star
 http://103.156.169.82:8000/play/a00c/index.m3u8
 #EXTINF:-1,Abc Picture
 http://103.156.169.82:8000/play/a006/index.m3u8
+#EXTINF:-1,ABC GOLD
+http://103.156.169.82:8000/play/a004/index.m3u8
 #EXTINF:-1,GOLDMINE BOLLYWOOD
 http://103.156.169.82:8000/play/a011/index.m3u8
 #EXTINF:-1,ABC BOLLYWOOD
 http://103.156.169.82:8000/play/a02u/index.m3u8
 #EXTINF:-1,ABC CLASSIC
 http://103.156.169.82:8000/play/a02w/index.m3u8
-#EXTINF:-1,Shemaroo Bollywood UK
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/b76c4ad2-cc0a-43e3-888f-f3e322cfa56f/0.m3u8
-#EXTINF:-1,Shemaroo Bollywood IN
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1,SHEMAROO BOLLYWOOD
-http://103.156.169.82:8000/play/a01q/index.m3u8
-#EXTINF:-1,B4U Kadak
-http://103.156.169.82:8000/play/a00y/index.m3u8
-
 #EXTINF:-1,Abc Action
 http://103.156.169.82:8000/play/a00a/index.m3u8
 #EXTINF:-1,ABC Premier
@@ -61,8 +56,16 @@ http://103.156.169.82:8000/play/a003/index.m3u8
 http://103.156.169.82:8000/play/a02l/index.m3u8
 #EXTINF:-1,GOLDMINE MOVIES
 http://103.156.169.82:8000/play/a01c/index.m3u8
+#EXTINF:-1,Shemaroo Bollywood UK
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/b76c4ad2-cc0a-43e3-888f-f3e322cfa56f/0.m3u8
+#EXTINF:-1,Shemaroo Bollywood IN
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1,SHEMAROO BOLLYWOOD
 http://103.156.169.82:8000/play/a01q/index.m3u8
+#EXTINF:-1,B4U Kadak
+http://103.156.169.82:8000/play/a00y/index.m3u8
+
+
 
 #EXTINF:-1 group-title="India",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
@@ -72,9 +75,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 group-title="BOLLYWOOD CLASSIC" tvg-logo=" https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8", Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Shamaroo Bollywood
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="ZEE5",Zee Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
@@ -123,44 +123,7 @@ http://119.152.240.15:8001/play/a0k0/index.m3u8
 
 
 
-#EXTINF:-1 ,ANIMAL PLANET HD
-https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
 
-#EXTINF:-1 ,𝙒𝙞𝙡𝙙 𝙀𝙖𝙧𝙩𝙝(𝘽𝘿)
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 ,Explore tv
-https://xlpore-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,𝙕𝙤𝙤 𝙈𝙤𝙤
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 ,aurLife HD (614p)
-http://124.109.47.101/hls/stream1.m3u8
-#EXTINF:-1 ,Sports
-https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 ,Sports 1
-https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 ,Sports HD
-http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
-#EXTINF:-1 ,MMN MOVIES
-http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
-#EXTINF:-1 ,ANIMAL PLANET 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-#EXTINF:-1 ,AXN
-https://streamer1.nexgen.bz/AXN/index.m3u8
-
-#EXTINF:-1 ,BARIN MOVIES
-http://baskhd.ddns.net:40/live//barinmovieSHD/chunklist_w1584558241.m3u8
-#EXTINF:-1 ,PANJARAH MOVIE
-https://mytorin.online/movies/panjereh/index.m3u8
-
-#EXTINF:-1 ,CRECKET
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 group-title="Series",Are we there Yet?
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyetnl-samsungnl/playlist.m3u8
-#EXTINF:-1 ,HorrorXtra Ⓢ
-http://92.114.85.81:8000/play/a01m/index.m3u8
-#EXTINF:-1 ,English Movies
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/monarch/master.m3u8
 #EXTINF:-1,CINE MONDO
 http://176.65.146.108:8022/play/a05f/index.m3u8
 #EXTINF:-1,TV CINE EDITION
