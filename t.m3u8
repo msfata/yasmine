@@ -79,8 +79,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="ZEE5",Zee Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 
-#EXTINF:-1 ,Color Cineplix Superhit
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6592/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Shamarro Bollywood
@@ -95,17 +94,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1 ,BOLLYWOOD ARABIC
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
-#EXTINF:-1 ,Zee Cinema
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6642/index.m3u8
-#EXTINF:-1 ,B4U Movies IN
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6569/index.m3u8
-#EXTINF:-1 ,Zee Classic
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6596/index.m3u8
-#EXTINF:-1 ,Colors Rishtey IN
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6586/index.m3u8
 
-#EXTINF:-1 ,Zee Classic
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6596/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="ZEE5",Zee Bollywood BACKUP
 http://119.152.240.15:8001/play/a0k0/index.m3u8
