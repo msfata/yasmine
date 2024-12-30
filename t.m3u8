@@ -68,7 +68,7 @@ http://103.156.169.82:8000/play/a01q/index.m3u8
 #EXTINF:-1,B4U Kadak
 http://103.156.169.82:8000/play/a00y/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="ZEE5",Zee Bollywood BACKUP
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="ZEE5",Zee Bollywood 
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 
 #EXTINF:-1 group-title="India",The Movie Club
@@ -147,5 +147,16 @@ http://176.65.146.108:8022/play/a06m/index.m3u8
 
 #EXTINF:-1,Impact TV Dance 
 https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1, CGTN DOCUMENTARY
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+
+#EXTINF:-1,SKY SPORTS LALIGA 🇲🇽
+http://45.5.117.182:8000/play/jnl0/index.m3u8
+#EXTINF:-1,Bien sport 2 🇶🇦
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+#EXTINF:-1,EUROSPORT 2 🇪🇸
+http://185.189.225.157/EuroSport2/index.m3u8
+#EXTINF:-1,ARY Sports 🇮🇳
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 
