@@ -29,16 +29,17 @@ https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
-#EXTINF:-1 group-title="HINDI",SHEMAROO FILMY GAANE
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/c80a70b7-08fa-4f36-8578-88a3da022708/0.m3u8
-#EXTINF:-1,BOLLYWOOD MUSIC
-http://103.156.169.82:8000/play/a02s/index.m3u8
-#EXTINF:-1,ABC MUSIC
-http://103.156.169.82:8000/play/a007/index.m3u8
+
 #EXTINF:-1,ABC BOX OFFICE
 http://103.156.169.82:8000/play/a008/index.m3u8
 #EXTINF:-1,ABC Super Star
 http://103.156.169.82:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg",Zee Cinema HD
+https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg",Zee Action
+https://la.drmlive.au/tp/zee-zeeaction.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg",Zee Anmol Cinema
+https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
 #EXTINF:-1,Abc Picture
 http://103.156.169.82:8000/play/a006/index.m3u8
 #EXTINF:-1,ABC GOLD
@@ -85,7 +86,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="ZEE5",Zee Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
-
+#EXTINF:-1 group-title="Movies" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg",SONY MAX HD
+http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
 
 #EXTINF:-1,Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
@@ -102,9 +104,15 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1 ,BOLLYWOOD ARABIC
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://sunplex.net/iptv/logo/sony-pix-hd.jpg",SONY PIX HD
+http://212.102.34.8:9080/SonyPixHD/video.m3u8
 
-
-
+#EXTINF:-1 group-title="HINDI",SHEMAROO FILMY GAANE
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/c80a70b7-08fa-4f36-8578-88a3da022708/0.m3u8
+#EXTINF:-1,BOLLYWOOD MUSIC
+http://103.156.169.82:8000/play/a02s/index.m3u8
+#EXTINF:-1,ABC MUSIC
+http://103.156.169.82:8000/play/a007/index.m3u8
 
 
 
