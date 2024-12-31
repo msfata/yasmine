@@ -30,20 +30,15 @@ https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
 
-#EXTINF:-1,ABC BOX OFFICE
-http://103.156.169.82:8000/play/a008/index.m3u8
-#EXTINF:-1,ABC Super Star
-http://103.156.169.82:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg",Zee Cinema HD
-https://la.drmlive.au/tp/zee-zeecinemahd.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg",Zee Action
-https://la.drmlive.au/tp/zee-zeeaction.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg",Zee Anmol Cinema
-https://la.drmlive.au/tp/zee-zeeanmolcinema.m3u8
+
+
 #EXTINF:-1,Abc Picture
 http://103.156.169.82:8000/play/a006/index.m3u8
 #EXTINF:-1,ABC GOLD
 http://103.156.169.82:8000/play/a004/index.m3u8
+
+#EXTINF:-1,ABC Super Star
+http://103.156.169.82:8000/play/a00c/index.m3u8
 #EXTINF:-1,GOLDMINE BOLLYWOOD
 http://103.156.169.82:8000/play/a011/index.m3u8
 #EXTINF:-1,ABC BOLLYWOOD
