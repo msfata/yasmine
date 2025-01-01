@@ -1,10 +1,12 @@
 
 
 #EXTM3U
-#EXTINF:-1 group-title="AFGHANISTAN", 1 TV
-https://cdn1.live.af/live/1tv.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",TOLO NEWS
+https://cdn1.live.af/live/tolonewstv.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",TOLO TV
 https://cdn1.live.af/live/tolotv.m3u8?hls_ctx=9yv5pt28
+#EXTINF:-1 group-title="AFGHANISTAN", 1 TV
+https://cdn1.live.af/live/1tv.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN", FIZA
 https://cdn1.live.af/live/fazatv.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",BAHAR
