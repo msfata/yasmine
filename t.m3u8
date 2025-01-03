@@ -31,6 +31,8 @@ https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
+#EXTINF:-1,Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
 
 
 
@@ -151,16 +153,18 @@ http://176.65.146.108:8022/play/a06l/index.m3u8
 #EXTINF:-1,AXN White HD
 http://176.65.146.108:8022/play/a06m/index.m3u8
 
-#EXTINF:-1, National Geographic Wild
-176.65.146.108:8022/play/a06z/index.m3u8
-
-#EXTINF:-1,Impact TV Dance 
-https://online.tvimpact.live/hls/dancetv.m3u8
-#EXTINF:-1, CGTN DOCUMENTARY
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1,WILD 1
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1,TAJIKISTAN BAHARISTAN
-https://live.teleradiocom.tj/3/3m.m3u8
-
+#EXTINF:-1,Starz Edge East
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1,Starz Encore Action East
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1,Starz Comedy East
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1,Star Channel Central America
+https://streamer1.nexgen.bz/STAR/index.m3u8
+#EXTINF:-1,Starz Encore East
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1,Maverick Black Cinema 
+https://apollo.production-public.tubi.io/live/ac-maverick-black-cinema.m3u8
+#EXTINF:-1,BN TV 
+https://rtvbn.tv:8080/live/index.m3u8
 
