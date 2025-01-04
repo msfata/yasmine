@@ -31,12 +31,12 @@ https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
-#EXTINF:-1,Grand Cinema
-https://gcinemahls.wns.live/hls/stream.m3u8
+
 
 #EXTINF:-1,B4U MOVIES
 http://175.107.244.52:4457/play/a058/index.m3u8
-
+#EXTINF:-1, ABC HINDI
+http://103.156.169.82:8000/play/a005/index.m3u8
 #EXTINF:-1,Abc Picture
 http://103.156.169.82:8000/play/a006/index.m3u8
 #EXTINF:-1,ABC GOLD
