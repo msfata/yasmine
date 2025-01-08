@@ -32,24 +32,11 @@ https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
 
-#EXTINF:-1,ZEE CAFE
-https://baskardo.vip/IN_ZEECAFE/index.m3u8
-#EXTINF:-1,&TV
-https://baskardo.vip/IN_And/index.m3u8
-#EXTINF:-1,STAR PLUS
-https://baskardo.vip/IN_STS/index.m3u8
-#EXTINF:-1,STAR BHARAT
-https://baskardo.vip/IN_Stb/index.m3u8
-#EXTINF:-1,SONY HD
-https://baskardo.vip/IN_STVS/index.m3u8
-#EXTINF:-1,SONY SAB
-https://baskardo.vip/IN_SBTVS/index.m3u8
-#EXTINF:-1,COLOR HD
-https://baskardo.vip/IN_CTVS/index.m3u8
-#EXTINF:-1, ZEE TV
-https://baskardo.vip/IS_ZE/index.m3u8
-#EXTINF:-1,STAR MOVIES
-https://baskardo.vip/IN_STRM/index.m3u8
+
+
+
+#EXTINF:-1,ZEE ACTION
+https://baskardo.vip/IN_ZeeActionHD/index.m3u8
 #EXTINF:-1, ZEE CINEMA
 https://baskardo.vip/IN_ZeeCinemaHD/index.m3u8
 #EXTINF:-1, STAR GOLD
@@ -145,7 +132,24 @@ http://103.156.169.82:8000/play/a007/index.m3u8
 
 
 
-
+#EXTINF:-1,ZEE CAFE
+https://baskardo.vip/IN_ZEECAFE/index.m3u8
+#EXTINF:-1,&TV
+https://baskardo.vip/IN_And/index.m3u8
+#EXTINF:-1,STAR PLUS
+https://baskardo.vip/IN_STS/index.m3u8
+#EXTINF:-1,STAR BHARAT
+https://baskardo.vip/IN_Stb/index.m3u8
+#EXTINF:-1,SONY HD
+https://baskardo.vip/IN_STVS/index.m3u8
+#EXTINF:-1,SONY SAB
+https://baskardo.vip/IN_SBTVS/index.m3u8
+#EXTINF:-1,COLOR HD
+https://baskardo.vip/IN_CTVS/index.m3u8
+#EXTINF:-1, ZEE TV
+https://baskardo.vip/IS_ZE/index.m3u8
+#EXTINF:-1,STAR MOVIES
+https://baskardo.vip/IN_STRM/index.m3u8
 
 
 
