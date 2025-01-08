@@ -34,6 +34,28 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 
 
+#EXTINF:-1,&TV
+https://baskardo.vip/IN_And/index.m3u8
+#EXTINF:-1,STAR PLUS
+https://baskardo.vip/IN_STS/index.m3u8
+#EXTINF:-1,STAR BHARAT
+https://baskardo.vip/IN_Stb/index.m3u8
+#EXTINF:-1,SONY HD
+https://baskardo.vip/IN_STVS/index.m3u8
+#EXTINF:-1,SONY SAB
+https://baskardo.vip/IN_SBTVS/index.m3u8
+#EXTINF:-1,COLOR HD
+https://baskardo.vip/IN_CTVS/index.m3u8
+#EXTINF:-1, ZEE TV
+https://baskardo.vip/IS_ZE/index.m3u8
+#EXTINF:-1,STAR MOVIES
+https://baskardo.vip/IN_STRM/index.m3u8
+#EXTINF:-1, ZEE CINEMA
+https://baskardo.vip/IN_ZeeCinemaHD/index.m3u8
+#EXTINF:-1, STAR GOLD
+https://baskardo.vip/IN_STGOLD/index.m3u8
+
+
 #EXTINF:-1,B4U MOVIES
 http://175.107.244.52:4457/play/a058/index.m3u8
 #EXTINF:-1, ABC HINDI
@@ -177,4 +199,6 @@ https://rtvbn.tv:8080/live/index.m3u8
 http://175.107.244.52:4457/play/a089/index.m3u8
 #EXTINF:-1,HBO
 http://212.102.60.231/HBO/index.m3u8
+#EXTINF:-1, STAR SPORT
+https://baskardo.vip/In_Hin/index.m3u8
 
