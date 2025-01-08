@@ -30,10 +30,10 @@ https://live.hastitv.com/hls/livetv.m3u8
 https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
-#EXTINF:-1 tvg-id="MBCPersia.ae",MBC Persia 
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 
 
+#EXTINF:-1,ZEE CAFE
+https://baskardo.vip/IN_ZEECAFE/index.m3u8
 #EXTINF:-1,&TV
 https://baskardo.vip/IN_And/index.m3u8
 #EXTINF:-1,STAR PLUS
@@ -54,24 +54,20 @@ https://baskardo.vip/IN_STRM/index.m3u8
 https://baskardo.vip/IN_ZeeCinemaHD/index.m3u8
 #EXTINF:-1, STAR GOLD
 https://baskardo.vip/IN_STGOLD/index.m3u8
-#EXTINF:-1, SONY MAX
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052678
-
-#EXTINF:-1 tvg-id="" tvg-name="MY - ZEE CINEMA FHD" tvg-logo="http://go4.pw/ASIA/INDIA/ZEE-CINEMA.png" group-title="TV | ASTRO GO VIP",MY - ZEE CINEMA FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052665
-#EXTINF:-1 tvg-id="" tvg-name="MY - ZEE CINEMA HD" tvg-logo="http://go4.pw/ASIA/INDIA/ZEE-CINEMA.png" group-title="TV | ASTRO GO VIP",MY - ZEE CINEMA HD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052666
-#EXTINF:-1 tvg-id="" tvg-name="MY - SONY MAX HD" tvg-logo="http://go4.pw/ASIA/INDIA/SONYMAX.png" group-title="TV | ASTRO GO VIP",MY - SONY MAX HD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052678
+#EXTINF:-1,GOLD MINES
+https://baskardo.vip/IN_STARGOLDSELECT/index.m3u8
+#EXTINF:-1,ZEE BOLLYWOOD
+https://baskardo.vip/IN_ZEEBOLLYWOODHD/index.m3u8
+#EXTINF:-1,STAR GOLD ROMANCE
+https://baskardo.vip/IN_StarGold2/index.m3u8
+#EXTINF:-1,Zee CLASSIC
+https://baskardo.vip/IN_ZeeClassic/index.m3u8
 #EXTINF:-1,B4U MOVIES
 http://175.107.244.52:4457/play/a058/index.m3u8
-#EXTINF:-1, ABC HINDI
-http://103.156.169.82:8000/play/a005/index.m3u8
 #EXTINF:-1,Abc Picture
 http://103.156.169.82:8000/play/a006/index.m3u8
 #EXTINF:-1,ABC GOLD
 http://103.156.169.82:8000/play/a004/index.m3u8
-
 #EXTINF:-1,ABC Super Star
 http://103.156.169.82:8000/play/a00c/index.m3u8
 #EXTINF:-1,GOLDMINE BOLLYWOOD
@@ -209,35 +205,4 @@ http://212.102.60.231/HBO/index.m3u8
 #EXTINF:-1, STAR SPORT
 https://baskardo.vip/In_Hin/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO FAMILY FHD" tvg-logo="http://go4.pw/BRAZIL/FAMILY.png" group-title="TV | ASTRO GO VIP",MY - HBO FAMILY FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052503
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO FAMILY HD" tvg-logo="http://go4.pw/BRAZIL/FAMILY.png" group-title="TV | ASTRO GO VIP",MY - HBO FAMILY HD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052504
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO FHD" tvg-logo="http://go4.pw/PORTUGAL/hbo_HD.png" group-title="TV | ASTRO GO VIP",MY - HBO FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052505
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO HD" tvg-logo="http://go4.pw/PORTUGAL/hbo_HD.png" group-title="TV | ASTRO GO VIP",MY - HBO HD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052507
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO HD" tvg-logo="http://go4.pw/PORTUGAL/hbo_HD.png" group-title="TV | ASTRO GO VIP",MY - HBO HD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052508
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO" tvg-logo="http://go4.pw/PORTUGAL/hbo_HD.png" group-title="TV | ASTRO GO VIP",MY - HBO
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052501
-#EXTINF:-1 tvg-id="" tvg-name="MY - HBO" tvg-logo="http://go4.pw/PORTUGAL/hbo_HD.png" group-title="TV | ASTRO GO VIP",MY - HBO
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052502
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS FHD" tvg-logo="http://go4.pw/ASIA/HITS1.png" group-title="TV | ASTRO GO VIP",MY - HITS FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052519
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS HD" tvg-logo="http://go4.pw/ASIA/HITS1.png" group-title="TV | ASTRO GO VIP",MY - HITS HD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052520
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS" tvg-logo="http://go4.pw/ASIA/HITS1.png" group-title="TV | ASTRO GO VIP",MY - HITS
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052518
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS MOVIES FHD" tvg-logo="http://go4.pw/PHILIPINES/HITS_Movies.png" group-title="TV | ASTRO GO VIP",MY - HITS MOVIES FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052522
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS MOVIES HD" tvg-logo="http://go4.pw/PHILIPINES/HITS_Movies.png" group-title="TV | ASTRO GO VIP",MY - HITS MOVIES HD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052523
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS MOVIES" tvg-logo="http://go4.pw/PHILIPINES/HITS_Movies.png" group-title="TV | ASTRO GO VIP",MY - HITS MOVIES
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052521
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS NOW FHD" tvg-logo="http://go4.pw/ASIA/HITS.png" group-title="TV | ASTRO GO VIP",MY - HITS NOW FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052525
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS NOW HD" tvg-logo="http://go4.pw/ASIA/HITS1.png" group-title="TV | ASTRO GO VIP",MY - HITS NOW HD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052526
-#EXTINF:-1 tvg-id="" tvg-name="MY - HITS NOW" tvg-logo="http://go4.pw/ASIA/HITS.png" group-title="TV | ASTRO GO VIP",MY - HITS NOW
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052524
+
