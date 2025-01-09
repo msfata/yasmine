@@ -30,8 +30,14 @@ https://live.hastitv.com/hls/livetv.m3u8
 https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
-
-
+#EXTINF:-1, BBO 
+https://previewsecgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_live_ire_sd/5c0357d0-5c86-4df0-976b-73a6f0e70623/0.m3u8
+#EXTINF:-1, BBO CLASSIC
+https://previewsecgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_live_ire_hd/9f7904db-f6c3-4fe9-89be-978721dc75cb/1.m3u8
+#EXTINF:-1,COLOR CINPLEX
+https://previewsecgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_live_ire_sd/14e8d297-faae-40d7-85de-ab03dfe004ff/0.m3u8
+#EXTINF:-1,COLOR RISHTEY
+https://previewsecgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_live_ire_sd/bdfd9c68-06c6-436b-84e8-37ff2845dbe6/0.m3u8
 #EXTINF:-1,B4U MOVIES
 http://175.107.244.52:4457/play/a058/index.m3u8
 #EXTINF:-1,Abc Picture
