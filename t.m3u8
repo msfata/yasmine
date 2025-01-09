@@ -210,3 +210,52 @@ http://212.102.60.231/HBO/index.m3u8
 https://baskardo.vip/In_Hin/index.m3u8
 
 
+
+#EXTINF:-1,HBO 2
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1,HBO Plus
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1,HBO Family
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1,AMC
+http://170.254.18.106/AMC/index.m3u8
+#EXTINF:-1,AMC East 
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtremeEast.us",Showtime Extreme East
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1,Syfy East
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1,Showtime Extreme East
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1,Showtime East
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1,Showtime 2 East
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1,Showtime Women East
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1,Showtime Next East
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1,MGM+ Marquee
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1,Hallmark Channel East
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1,FYI East
+http://fl2.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1,Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1,Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1,Tennis Channel
+http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1,Fox Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1,Yes Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1,Brics English
+http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+#EXTINF:-1,Nick Music 
+http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+
+
