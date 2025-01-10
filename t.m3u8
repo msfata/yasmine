@@ -30,6 +30,10 @@ https://live.hastitv.com/hls/livetv.m3u8
 https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
+#EXTINF:-1,BINDAS
+http://119.152.240.15:8001/play/a0bb/index.m3u8
+#EXTINF:-1,MASTI
+http://119.152.240.15:8001/play/a022/index.m3u8
 #EXTINF:-1, BBO 
 https://previewsecgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_live_ire_sd/5c0357d0-5c86-4df0-976b-73a6f0e70623/0.m3u8
 #EXTINF:-1, BBO CLASSIC
@@ -38,7 +42,18 @@ https://previewsecgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1cc
 https://previewsecgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_live_ire_sd/14e8d297-faae-40d7-85de-ab03dfe004ff/0.m3u8
 #EXTINF:-1,COLOR RISHTEY
 https://previewsecgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/pr_live_ire_sd/bdfd9c68-06c6-436b-84e8-37ff2845dbe6/0.m3u8
-
+#EXTINF:-1,B4U KADAK
+http://119.152.240.15:8001/play/a021/index.m3u8
+#EXTINF:-1,RAVI
+http://119.152.240.15:8001/play/a00x/index.m3u8
+#EXTINF:-1,zee cinema
+http://119.152.240.15:8001/play/a01x/index.m3u8
+#EXTINF:-1,&PICTURE
+http://119.152.240.15:8001/play/a0h7/index.m3u8
+#EXTINF:-1,COLOR CIINPLEX SUPERHEAD
+http://119.152.240.15:8001/play/a01v/index.m3u8
+#EXTINF:-1,STAR HINDI MOVIES
+http://119.152.240.15:8001/play/a02f/index.m3u8
 #EXTINF:-1 group-title="India",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 
@@ -50,8 +65,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="ZEE5",Zee Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+#EXTINF:-1,ZEE BOLLYWOOD BACK UP
+http://119.152.240.15:8001/play/a0k0/index.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg",SONY MAX HD
 http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
+
+#EXTINF:-1,SONY MAX2
+http://119.152.240.15:8001/play/a0j7/index.m3u8
 
 
 #EXTINF:-1,Abc Picture
@@ -120,7 +141,8 @@ http://103.156.169.82:8000/play/a007/index.m3u8
 
 #EXTINF:-1,B4U MOVIES
 http://175.107.244.52:4457/play/a058/index.m3u8
-
+#EXTINF:-1,BOLLYWOOD ARABIC
+http://119.152.240.15:8001/play/a01l/index.m3u8
 #EXTINF:-1,ZEE CAFE
 https://baskardo.vip/IN_ZEECAFE/index.m3u8
 #EXTINF:-1,&TV
@@ -246,5 +268,26 @@ http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 #EXTINF:-1,Nick Music 
 http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
-
+#EXTINF:-1,SHAHZAD
+http://119.152.240.15:8001/play/a0i9/index.m3u8
+#EXTINF:-1,STAR MOVIES
+http://119.152.240.15:8001/play/a0i0/index.m3u8
+#EXTINF:-1,&FLIX HD
+http://119.152.240.15:8001/play/a0b5/index.m3u8
+#EXTINF:-1,LTN
+http://119.152.240.15:8001/play/a032/index.m3u8
+#EXTINF:-1,FILMMAX
+http://119.152.240.15:8001/play/a00p/index.m3u8
+#EXTINF:-1,CHINEES ENG
+http://119.152.240.15:8001/play/a01k/index.m3u8
+#EXTINF:-1,MNX
+http://119.152.240.15:8001/play/a01n/index.m3u8
+#EXTINF:-1,DISCOVERY
+http://119.152.240.15:8001/play/a0i3/index.m3u8
+#EXTINF:-1,DISCOVER DAALISTAN
+http://119.152.240.15:8001/play/a02u/index.m3u8
+#EXTINF:-1,NATIONAL GEO
+http://119.152.240.15:8001/play/a0i2/index.m3u8
+#EXTINF:-1,PAKI
+http://119.152.240.15:8001/play/a010/index.m3u8
 
