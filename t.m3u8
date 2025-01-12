@@ -31,6 +31,26 @@ https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
+#EXTINF:-1,B4U MOVIES
+http://103.113.149.202:8000/play/a03p/index.m3u8
+#EXTINF:-1,B4U MOVIES BU
+http://103.113.149.202:8000/play/a08h/index.m3u8
+
+#EXTINF:-1 group-title="India",ZEE CINEMA HINDI
+http://103.113.149.202:8000/play/a04h/index.m3u8
+
+#EXTINF:-1,zee cinema hindi BU
+http://119.152.240.15:8001/play/a01x/index.m3u8
+
+#EXTINF:-1 group-title="India",COLOR CINPLEX BOLLYWOOD
+http://103.113.149.202:8000/play/a045/index.m3u8
+
+
+#EXTINF:-1,COLOR CINPLIX SUPER
+http://103.113.149.202:8000/play/a08w/index.m3u8
+
+#EXTINF:-1,COLOR CINPLIX SUPER BU
+http://103.113.149.202:8000/play/a048/index.m3u8
 
 #EXTINF:-1 group-title="India",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
@@ -44,14 +64,28 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="ZEE5",Zee Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg",SONY MAX HD
+http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
+
+#EXTINF:-1,SONY MAX2
+http://119.152.240.15:8001/play/a0j7/index.m3u8
 #EXTINF:-1,B4U KADAK
 http://119.152.240.15:8001/play/a021/index.m3u8
+
+#EXTINF:-1,B4U KADAK BU
+http://103.113.149.202:8000/play/a04c/index.m3u8
+
+#EXTINF:-1,GOLDMINE MOVIES
+http://103.113.149.202:8000/play/a02r/index.m3u8
+
+#EXTINF:-1,GOLDMINES BOLLYWOOD
+http://103.113.149.202:8000/play/a046/index.m3u8
 
 #EXTINF:-1,STAR GOLD
 http://bb.thenayeemparvez.xyz/stargold/index.m3u8
 
-#EXTINF:-1,zee cinema hindi
-http://119.152.240.15:8001/play/a01x/index.m3u8
+#EXTINF:-1,STAR GOLD THR
+http://103.113.149.202:8000/play/a04j/index.m3u8
 
 #EXTINF:-1,&PICTURE HD
 http://119.152.240.15:8001/play/a0h7/index.m3u8
@@ -59,11 +93,10 @@ http://119.152.240.15:8001/play/a0h7/index.m3u8
 #EXTINF:-1,COLOR CIINPLEX SUPERHEAD
 http://119.152.240.15:8001/play/a01v/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg",SONY MAX HD
-http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
-
-#EXTINF:-1,SONY MAX2
-http://119.152.240.15:8001/play/a0j7/index.m3u8
+#EXTINF:-1,MANURANJAN PRIME
+http://103.113.149.202:8000/play/a03v/index.m3u8
+#EXTINF:-1,MANURANJAN PRIME BU
+http://103.113.149.202:8000/play/a08i/index.m3u8
 
 #EXTINF:-1,Shemaroo Bollywood UK
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/b76c4ad2-cc0a-43e3-888f-f3e322cfa56f/0.m3u8
@@ -79,6 +112,15 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 
 #EXTINF:-1 ,BOLLYWOOD ARABIC
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+
+#EXTINF:-1,KHUSHBOO
+http://103.113.149.202:8000/play/a025/index.m3u8
+
+#EXTINF:-1,MOVIE PLUS
+http://103.113.149.202:8000/play/a030/index.m3u8
+
+#EXTINF:-1,BUJPURI CINEMA
+http://103.113.149.202:8000/play/a040/index.m3u8
 
 #EXTINF:-1,COMEDY KING
 https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/playlist/amg01448-samsungindia-comedyking-samsungin/cb7d3e4f7b706f88c8cc696c86f042a5d1023181573ad13c3afb5e9623921a538cb5f6c3e719ea3c58bd40a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e05e44c66cbfb10248854c14b1d30090cb19b887ca5898519224f242cf97f8dd850dd1d0986bb456b3310f15237fc88434909f08ee88cd38699d282c152c628cdafb01c5fce73d217bdabda58a6bf607cb8d65aa6939bc049742f641e0098f3cd72dca3dcfc1b967542babd45e1b47ea85f2c9933142dcd899cb03025a5ce0ddbc1f1a325807fd6155b5e8d91b94c65abab92d81bb6727f5a1fb4ab692a88ae3bc8c05c96b9a87bcaf344c4a6c1311c67396da3c8b678d23e8f91a2f0a191fed820390cf997f20724383b75bd63812ad94ded08840689c205371c054f477492cc03d6779a50afc993763c066298d2732f65d7ad111adf67cbbf795b54608b4d8c650f620bae65d9ca554db18563335bafc2850525f3d81be146a1e4d8314b49d9a9b346366cbf8c2f9cc5642771a1f400386e7a73ddbb9c9271919d64064075015049d10d979d5621d5436a8feb25bf7925960c4f9e49fb468511f93bd1dfe639652ef/44/1920x1080_5000000/index.m3u8
