@@ -35,13 +35,9 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
 #EXTINF:-1,ZEE CINEMA
 http://170.254.18.107/ZEECINEMA/index.m3u8
-#EXTINF:-1,ZEE CINEMA 2
-http://bb.thenayeemparvez.xyz/ZeeCinemaFHD/index.m3u8
 #EXTINF:-1,SONY 
 http://170.254.18.107/SONYMAX/index.m3u8
 #EXTINF:-1,STAR GOLD
-http://bb.thenayeemparvez.xyz/stargold/index.m3u8
-#EXTINF:-1,STAR GOLD 2
 http://bb.thenayeemparvez.xyz/stargold/index.m3u8
 #EXTINF:-1 group-title="India",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
