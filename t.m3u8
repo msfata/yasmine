@@ -32,7 +32,8 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
 
 
-
+#EXTINF:-1, MTV Music
+http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6582/index.m3u8
 #EXTINF:-1,ZEE CINEMA
 http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:-1,SONY 
@@ -57,8 +58,12 @@ http://103.113.149.202:8000/play/a045/index.m3u8
 http://103.113.149.202:8000/play/a08w/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg",SONY MAX HD
 http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
+#EXTINF:-1,SONY
+http://170.254.18.107/SONY/index.m3u8
 #EXTINF:-1,SONY MAX2
 http://119.152.240.15:8001/play/a0j7/index.m3u8
+#EXTINF:-1,SONY MAX2 BU
+http://170.254.18.107/SONYMAX/index.m3u8
 #EXTINF:-1,B4U KADAK
 http://119.152.240.15:8001/play/a021/index.m3u8
 #EXTINF:-1,GOLDMINE MOVIES
@@ -73,6 +78,9 @@ http://119.152.240.15:8001/play/a0h7/index.m3u8
 http://119.152.240.15:8001/play/a01v/index.m3u8
 #EXTINF:-1,MANURANJAN PRIME
 http://103.113.149.202:8000/play/a03v/index.m3u8
+
+#EXTINF:-1,SHEMAROO Bollywood
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1,Shemaroo Bollywood UK
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/b76c4ad2-cc0a-43e3-888f-f3e322cfa56f/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Shamarro Bollywood
