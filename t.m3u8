@@ -31,13 +31,10 @@ https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
 
-
-#EXTINF:-1, MTV Music
-http://mydsat85.cbilant.com/iptv/E2DFKS2LWK569Q/6582/index.m3u8
+#EXTINF:-1 ,Zee Bollywood
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:-1,ZEE CINEMA
 http://170.254.18.107/ZEECINEMA/index.m3u8
-#EXTINF:-1,SONY 
-http://170.254.18.107/SONYMAX/index.m3u8
 #EXTINF:-1,STAR GOLD
 http://bb.thenayeemparvez.xyz/stargold/index.m3u8
 #EXTINF:-1 group-title="India",The Movie Club
@@ -46,41 +43,20 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8  
 #EXTINF:-1 group-title="BOLLYWOOD CLASSIC" tvg-logo=" https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8", Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png" group-title="ZEE5",Zee Bollywood
-http://212.102.34.8:9080/ZeeBollywood/video.m3u8
 #EXTINF:-1,B4U MOVIES
 http://175.107.244.52:4457/play/a058/index.m3u8
-#EXTINF:-1 group-title="India",ZEE CINEMA HINDI
-http://103.113.149.202:8000/play/a04h/index.m3u8
-#EXTINF:-1 group-title="India",COLOR CINPLEX BOLLYWOOD
-http://103.113.149.202:8000/play/a045/index.m3u8
-#EXTINF:-1,COLOR CINPLIX SUPER
-http://103.113.149.202:8000/play/a08w/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://sunplex.net/iptv/logo/set-max-hd.jpg",SONY MAX HD
+#EXTINF:-1,SONY 
+http://170.254.18.107/SONYMAX/index.m3u8
+#EXTINF:-1,SONY MAX HD
 http://bb.thenayeemparvez.xyz/SonyMaxFHD/index.m3u8
-#EXTINF:-1,SONY
-http://170.254.18.107/SONY/index.m3u8
 #EXTINF:-1,SONY MAX2
 http://119.152.240.15:8001/play/a0j7/index.m3u8
-#EXTINF:-1,SONY MAX2 BU
-http://170.254.18.107/SONYMAX/index.m3u8
 #EXTINF:-1,B4U KADAK
 http://119.152.240.15:8001/play/a021/index.m3u8
-#EXTINF:-1,GOLDMINE MOVIES
-http://103.113.149.202:8000/play/a02r/index.m3u8
-#EXTINF:-1,GOLDMINES BOLLYWOOD
-http://103.113.149.202:8000/play/a046/index.m3u8
-#EXTINF:-1,STAR GOLD THR
-http://103.113.149.202:8000/play/a04j/index.m3u8
 #EXTINF:-1,&PICTURE HD
 http://119.152.240.15:8001/play/a0h7/index.m3u8
 #EXTINF:-1,COLOR CIINPLEX SUPERHEAD
 http://119.152.240.15:8001/play/a01v/index.m3u8
-#EXTINF:-1,MANURANJAN PRIME
-http://103.113.149.202:8000/play/a03v/index.m3u8
-
-#EXTINF:-1,SHEMAROO Bollywood
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1,Shemaroo Bollywood UK
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/b76c4ad2-cc0a-43e3-888f-f3e322cfa56f/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Shamarro Bollywood
@@ -93,14 +69,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1,STAR HINDI MOVIES
 http://119.152.240.15:8001/play/a02f/index.m3u8   
-
 #EXTINF:-1,Bollywood Masala
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/08c6bc7c-9035-4098-8d2f-cb11fb2bf16d/1.m3u8
 #EXTINF:-1,Local
 https://dbrb49pjoymg4.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/7be04f99-5bf2-430b-86dd-4e1577159f1b/4.m3u8
 #EXTINF:-1,COMEDY KING
 https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/playlist/amg01448-samsungindia-comedyking-samsungin/cb7d3e4f7b706f88c8cc696c86f042a5d1023181573ad13c3afb5e9623921a538cb5f6c3e719ea3c58bd40a33e40340d0136d41cc07c11dfb923f6056b3b5464e4fca27ad9871202a2bf56742cb7710e19f80a0cc0541362d5ec2d0d8716bc6d4a46bb5e200564cdf522d5122fb99c1ad72672debdaa346a2605468f2e05a7ff03f6e0e05e44c66cbfb10248854c14b1d30090cb19b887ca5898519224f242cf97f8dd850dd1d0986bb456b3310f15237fc88434909f08ee88cd38699d282c152c628cdafb01c5fce73d217bdabda58a6bf607cb8d65aa6939bc049742f641e0098f3cd72dca3dcfc1b967542babd45e1b47ea85f2c9933142dcd899cb03025a5ce0ddbc1f1a325807fd6155b5e8d91b94c65abab92d81bb6727f5a1fb4ab692a88ae3bc8c05c96b9a87bcaf344c4a6c1311c67396da3c8b678d23e8f91a2f0a191fed820390cf997f20724383b75bd63812ad94ded08840689c205371c054f477492cc03d6779a50afc993763c066298d2732f65d7ad111adf67cbbf795b54608b4d8c650f620bae65d9ca554db18563335bafc2850525f3d81be146a1e4d8314b49d9a9b346366cbf8c2f9cc5642771a1f400386e7a73ddbb9c9271919d64064075015049d10d979d5621d5436a8feb25bf7925960c4f9e49fb468511f93bd1dfe639652ef/44/1920x1080_5000000/index.m3u8
- 
 #EXTINF:-1,ZEE BOLLYWOOD BACK UP
 http://119.152.240.15:8001/play/a0k0/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://sunplex.net/iptv/logo/sony-pix-hd.jpg",SONY PIX HD
@@ -111,159 +85,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://119.152.240.15:8001/play/a01l/index.m3u8
 #EXTINF:-1 tvg-id="ZeeAflam.in",Zee Aflam 
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-
-
-
-
-
-
-#EXTINF:-1,CINE MONDO
-http://176.65.146.108:8022/play/a05f/index.m3u8
-#EXTINF:-1,TV CINE EDITION
-http://176.65.146.108:8022/play/a06x/index.m3u8
-#EXTINF:-1,TV CINE EMOTION
-http://176.65.146.108:8022/play/a06y/index.m3u8
-#EXTINF:-1,TV CINE
-http://176.65.146.108:8022/play/a078/index.m3u8
-#EXTINF:-1,TV CINE ACTION
-http://176.65.146.108:8022/play/a079/index.m3u8
-#EXTINF:-1,STAR CRIME
-http://176.65.146.108:8022/play/a06p/index.m3u8
-#EXTINF:-1,FOX HD
-http://176.65.146.108:8022/play/a07m/index.m3u8
-#EXTINF:-1,FOX MOVIES
-http://176.65.146.108:8022/play/a07r/index.m3u8
-#EXTINF:-1,SYFY
-http://176.65.146.108:8022/play/a088/index.m3u8
-#EXTINF:-1,HOLLYWOOD HD
-http://176.65.146.108:8022/play/a061/index.m3u8
-#EXTINF:-1,AXN Movies HD
-http://176.65.146.108:8022/play/a06l/index.m3u8
-#EXTINF:-1,AXN White HD
-http://176.65.146.108:8022/play/a06m/index.m3u8
-
-#EXTINF:-1,Starz Edge East
-http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
-#EXTINF:-1,Starz Encore Action East
-http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
-#EXTINF:-1,Starz Comedy East
-http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1,Star Channel Central America
-https://streamer1.nexgen.bz/STAR/index.m3u8
-#EXTINF:-1,Starz Encore East
-http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
-#EXTINF:-1,Maverick Black Cinema 
-https://apollo.production-public.tubi.io/live/ac-maverick-black-cinema.m3u8
-#EXTINF:-1,BN TV 
-https://rtvbn.tv:8080/live/index.m3u8
-
-
-#EXTINF:-1,HBO
-http://212.102.60.231/HBO/index.m3u8
-#EXTINF:-1, STAR SPORT
-https://baskardo.vip/In_Hin/index.m3u8
-
-
-
-#EXTINF:-1,HBO 2
-http://170.254.18.106/HBO2/index.m3u8
-#EXTINF:-1,HBO Plus
-http://170.254.18.106/HBO_PLUS/index.m3u8
-#EXTINF:-1,HBO Family
-http://170.254.18.106/HBO_FAMILY/index.m3u8
-#EXTINF:-1,AMC
-http://170.254.18.106/AMC/index.m3u8
-#EXTINF:-1,AMC East 
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeExtremeEast.us",Showtime Extreme East
-http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1,Syfy East
-http://fl2.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1,Showtime Extreme East
-http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
-#EXTINF:-1,Showtime East
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-#EXTINF:-1,Showtime 2 East
-http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1,Showtime Women East
-http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1,Showtime Next East
-http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1,MGM+ Marquee
-http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1,Hallmark Channel East
-http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1,FYI East
-http://fl2.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1,Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1,Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1,Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1,Tennis Channel
-http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1,Fox Sports 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1,Yes Network
-http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
-#EXTINF:-1,Brics English
-http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:-1,Nick Music 
-http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
-#EXTINF:-1,SHAHZAD
-http://119.152.240.15:8001/play/a0i9/index.m3u8
-#EXTINF:-1,STAR MOVIES
-http://119.152.240.15:8001/play/a0i0/index.m3u8
-#EXTINF:-1,&FLIX HD
-http://119.152.240.15:8001/play/a0b5/index.m3u8
-#EXTINF:-1,LTN
-http://119.152.240.15:8001/play/a032/index.m3u8
-#EXTINF:-1,FILMMAX
-http://119.152.240.15:8001/play/a00p/index.m3u8
-
-#EXTINF:-1,CHINEES ENG
-http://119.152.240.15:8001/play/a01k/index.m3u8
-#EXTINF:-1,MNX
-http://119.152.240.15:8001/play/a01n/index.m3u8
-#EXTINF:-1,DISCOVERY
-http://119.152.240.15:8001/play/a0i3/index.m3u8
-#EXTINF:-1,DISCOVER DAALISTAN
-http://119.152.240.15:8001/play/a02u/index.m3u8
-#EXTINF:-1,NATIONAL GEO
-http://119.152.240.15:8001/play/a0i2/index.m3u8
-#EXTINF:-1,SOFTWARE
-http://119.152.240.15:8001/play/a006/index.m3u8
-#EXTINF:-1,SUPLY MANAGEMENT
-http://119.152.240.15:8001/play/a007/index.m3u8
-#EXTINF:-1,star life
-http://119.152.240.15:8001/play/a0j8/index.m3u8
-#EXTINF:-1,STAR
-http://170.254.18.106/STAR/index.m3u8
-#EXTINF:-1,BBC EARTH
-http://175.107.244.52:4457/play/a06u/index.m3u8
-#EXTINF:-1,NAT GEO PEOPLE
-http://175.107.244.52:4457/play/a07c/index.m3u8
-#EXTINF:-1,WILD
-http://175.107.244.52:4457/play/a07b/index.m3u8
-#EXTINF:-1,WWE
-http://175.107.244.52:4457/play/a06t/index.m3u8
-#EXTINF:-1,FX
-http://175.107.244.52:4457/play/a07r/index.m3u8
-#EXTINF:-1,FX COMMEDY
-http://175.107.244.52:4457/play/a07o/index.m3u8
-#EXTINF:-1,FX PREM
-http://175.107.244.52:4457/play/a07l/index.m3u8
-#EXTINF:-1,EXTRA HD
-http://175.107.244.52:4457/play/a07k/index.m3u8
-#EXTINF:-1,AMC
-http://175.107.244.52:4457/play/a07j/index.m3u8
-#EXTINF:-1,AXN
-http://175.107.244.52:4457/play/a07g/index.m3u8
-#EXTINF:-1,AXN HD
-http://175.107.244.52:4457/play/a07f/index.m3u8
-#EXTINF:-1,FILM CAFE
-http://175.107.244.52:4457/play/a07d/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.sefiles.net/merchant/5511/images/site/logo_ae_300x80.png" group-title="Infotainment", Adventure Earth
 https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,STAR
@@ -278,4 +99,3 @@ http://212.102.60.231/TSN_3/index.m3u8
 http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1,SPORT 5
 http://212.102.60.231/TSN_5/index.m3u8
-
