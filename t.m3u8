@@ -30,6 +30,31 @@ https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
+#EXTINF:-1 group-title="HINDI",&FLEX
+http://45.148.145.57/IN_FLIX/index.m3u8
+
+#EXTINF:-1 group-title="HINDI", GOLD MINES
+http://humsab.xyz/IN_STARGOLDSELECT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI", Zee Bollywood HD
+http://45.148.145.57/IN_ZEEBOLLYWOODHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI", Zee Bollywood
+http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+#EXTINF:-1 group-title="HINDI", ZEE CINEMA UK
+http://170.254.18.107/ZEECINEMA/index.m3u8
+#EXTINF:-1 group-title="HINDI", ZEE CINEMA HD
+http://45.148.145.57/IN_ZeeCinemaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI", ZEE CINEMA HINDI
+http://45.148.145.57/IN_ZEAN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI", ZEE CLASSIC
+http://45.148.145.57/IN_ZeeClassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI", ZEE ACTION HD
+http://45.148.145.57/IN_ZeeActionHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI", ZEE ACTION
+http://45.148.145.57/IN_ZeeActionHD/index.m3u8
+#EXTINF:-1 group-title="HINDI", STAR GOLD
+http://bb.thenayeemparvez.xyz/stargold/index.m3u8
+#EXTINF:-1 group-title="HINDI",Star Gold HD new
+http://humsab.xyz/IN_STGOLD/index.m3u8
 
 #EXTINF:-1 ,Zee Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
