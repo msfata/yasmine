@@ -30,9 +30,12 @@ https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 
+#EXTINF:-1 group-title="HINDI", ZEE CAFE
+http://humsab.xyz/IN_ZEECAFE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI",&FLEX
 http://45.148.145.57/IN_FLIX/index.m3u8
-
+#EXTINF:-1 group-title="HINDI", STAR GOLD ROMANCE
+http://humsab.xyz/IN_StarGold2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI", GOLD MINES
 http://humsab.xyz/IN_STARGOLDSELECT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI", Zee Bollywood HD
