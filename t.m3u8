@@ -19,42 +19,20 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chun
 http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
 #EXTINF:-1 group-title="Movies",Afghan Nobel Movies
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
-#EXTINF:-1 group-title="General",Afghan Nobel TV
-https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",AFGHAN TIME
 https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",Watan-e-Maa TV
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",MANOTO
-https://manoto.icdndhcp.com/hls/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",AMO
 https://jmc-live.ercdn.net/amutv/amutv.m3u8
-#EXTINF:-1 group-title="HINDI",ZEE CAFE
-http://humsab.xyz/IN_ZEECAFE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI",&FLEX
-http://45.148.145.57/IN_FLIX/index.m3u8
 #EXTINF:-1 group-title="HINDI",STAR GOLD ROMANCE
 http://humsab.xyz/IN_StarGold2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI",GOLD MINES
 http://humsab.xyz/IN_STARGOLDSELECT/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI",Zee Bollywood HD
-http://45.148.145.57/IN_ZEEBOLLYWOODHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI",Zee Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
-#EXTINF:-1 group-title="HINDI",ZEE CINEMA UK
-http://170.254.18.107/ZEECINEMA/index.m3u8
-#EXTINF:-1 group-title="HINDI",ZEE CINEMA HINDI
-http://45.148.145.57/IN_ZEAN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI",ZEE CLASSIC
-http://45.148.145.57/IN_ZeeClassic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI",ZEE ACTION HD
-http://45.148.145.57/IN_ZeeActionHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI",ZEE ACTION
-http://45.148.145.57/IN_ZeeActionHD/index.m3u8
 #EXTINF:-1 ,Zee Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
-#EXTINF:-1 ,ZEE CINEMA
-http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:-1 group-title="India",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD CLASSIC",Bollywood HD
@@ -63,8 +41,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 ,B4U MOVIES
 http://175.107.244.52:4457/play/a058/index.m3u8
-#EXTINF:-1 ,SONY
-http://170.254.18.107/SONYMAX/index.m3u8
 #EXTINF:-1 ,Shemaroo Bollywood UK
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/b76c4ad2-cc0a-43e3-888f-f3e322cfa56f/0.m3u8
 #EXTINF:-1 group-title="Hindi Movies",Shamarro Bollywood
@@ -85,10 +61,6 @@ https://amg01448-samsungindia-amg01448c6-samsung-in-2297.playouts.now.amagi.tv/p
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/c80a70b7-08fa-4f36-8578-88a3da022708/0.m3u8
 #EXTINF:-1 ,Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-#EXTINF:-1 group-title="Infotainment",Adventure Earth
-https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,STAR
-http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 ,SPORT 1
 http://212.102.60.231/TSN_1/index.m3u8
 #EXTINF:-1 ,SPORT 2
