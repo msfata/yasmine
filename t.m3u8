@@ -71,3 +71,37 @@ http://212.102.60.231/TSN_3/index.m3u8
 http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1 ,SPORT 5
 http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1,I fILM
+http://38.76.152.22:8000/play/a06n/index.m3u8
+#EXTINF:-1,Filmax
+http://38.76.152.22:8000/play/a04b/index.m3u8
+#EXTINF:-1,Star Gold Thrils
+http://38.76.152.22:8000/play/a00c/index.m3u8
+#EXTINF:-1,Sony Max 2
+http://38.76.152.22:8000/play/a00h/index.m3u8
+#EXTINF:-1,Star Gold HD
+http://38.76.152.22:8000/play/a00f/index.m3u8
+#EXTINF:-1,Star Gold2
+http://38.76.152.22:8000/play/a00g/index.m3u8
+#EXTINF:-1,Zee Bollywood
+http://38.76.152.22:8000/play/a00n/index.m3u8
+#EXTINF:-1,Star Gold Select
+http://38.76.152.22:8000/play/a01s/index.m3u8
+#EXTINF:-1,Star Gold Romance
+http://38.76.152.22:8000/play/a00r/index.m3u8
+#EXTINF:-1,Sony Max
+http://38.76.152.22:8000/play/a00u/index.m3u8
+#EXTINF:-1,B4U Movies
+http://38.76.152.22:8000/play/a01w/index.m3u8
+#EXTINF:-1,Zee Anmole Cinema
+http://38.76.152.22:8000/play/a01v/index.m3u8
+#EXTINF:-1,color cineplex bollywood
+http://38.76.152.22:8000/play/a01a/index.m3u8
+#EXTINF:-1,color
+http://38.76.152.22:8000/play/a00a/index.m3u8
+#EXTINF:-1,Zee Tv 
+http://38.76.152.22:8000/play/a00y/index.m3u8
+#EXTINF:-1,&Pic
+http://38.76.152.22:8000/play/a01t/index.m3u8
+#EXTINF:-1,Romedy
+http://38.76.152.22:8000/play/a01j/index.m3u8
