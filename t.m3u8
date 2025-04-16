@@ -25,16 +25,70 @@ https://live.relentlessinnovations.net:1936/afghantime/afghantime/playlist.m3u8
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",AMO
 https://jmc-live.ercdn.net/amutv/amutv.m3u8
-#EXTINF:-1 group-title="HINDI",STAR GOLD ROMANCE
-http://humsab.xyz/IN_StarGold2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI",GOLD MINES
-http://humsab.xyz/IN_STARGOLDSELECT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI",Bollywood Masala
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/08c6bc7c-9035-4098-8d2f-cb11fb2bf16d/1.m3u8
+#EXTINF:-1 ,Vision Beats
+http://a-edge.bliscdn.com/Visionbeats/index.m3u8
+#EXTINF:-1 ,HINDI NAMELESS 1
+http://str24.l9574.com/742.stream/index.m3u8
+#EXTINF:-1 ,HINDI NAMELESS 2
+http://str24.l9574.com/741.stream/index.m3u8
+#EXTINF:-1 ,Hindi Nameless 3
+http://str24.l9574.com/743.stream/index.m3u8
+#EXTINF:-1 ,HINDI NAMELESS 4
+http://str24.l9574.com/744.stream/index.m3u8
+#EXTINF:-1 ,HINDI NAMELESS 5
+http://str24.l9574.com/745.stream/index.m3u8
+#EXTINF:-1 ,hindi nameless 6
+http://str24.l9574.com/746.stream/index.m3u8
+#EXTINF:-1 ,Zee Classic
+http://str24.l9574.com/733.stream/index.m3u8
+#EXTINF:-1 ,Shemaroo Bollywood UK
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/b76c4ad2-cc0a-43e3-888f-f3e322cfa56f/0.m3u8
+#EXTINF:-1 ,CINEMA HINDI
+http://45.148.145.57/IN_StarGold2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,B4U KADAK HD
+https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1 group-title="Hindi Movies",Shamarro Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="HINDI",SHEMAROO FILMY GAANE
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/c80a70b7-08fa-4f36-8578-88a3da022708/0.m3u8
+#EXTINF:-1 ,B4U MOVIES
+http://175.107.244.52:4457/play/a058/index.m3u8
+#EXTINF:-1 group-title="HINDI",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+#EXTINF:-1 group-title="HINDI",Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 group-title="HINDI",Zee Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
-#EXTINF:-1 ,Zee Bollywood
-http://212.102.34.8:9080/ZeeBollywood/video.m3u8
-#EXTINF:-1 group-title="India",The Movie Club
-https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+#EXTINF:-1 group-title="HINDI",Local
+https://dbrb49pjoymg4.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/7be04f99-5bf2-430b-86dd-4e1577159f1b/4.m3u8
+#EXTINF:-1 group-title="HINDI",Shemaroo Bollywood UK
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/b76c4ad2-cc0a-43e3-888f-f3e322cfa56f/0.m3u8
+#EXTINF:-1 group-title="HINDI",Shamarro Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 ,YYZ TV
+http://cdn12.henico.net:8080/live/sursangam/index.m3u8
+#EXTINF:-1 ,YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 ,Yrf Music
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/64cea3f1-fa23-4d50-b6c0-ace3a37055a3/1.m3u8
+#EXTINF:-1 group-title="HINDI",YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1 ,GOLDMINES
+http://45.148.145.57/IN_STARGOLDSELECT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI",MOVIE ONE
+https://vodzong.mjunoon.tv:8087/streamtest/movie-one-176/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC",Zee Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1,TEN SPORT
+http://str24.l9574.com/610.stream/index.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="BOLLYWOOD CLASSIC",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD CLASSIC",Bollywood Classic
