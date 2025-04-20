@@ -27,6 +27,14 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 https://jmc-live.ercdn.net/amutv/amutv.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",DEEYAR
 https://59d39900ebfb8.streamlock.net/viet-sports/viet-sports/playlist.m3u8
+#EXTINF:-1,Picture
+http://38.76.152.22:8000/play/a01t/index.m3u8
+#EXTINF:-1,Sony
+http://38.76.152.22:8000/play/a00j/index.m3u8
+#EXTINF:-1,Sony Max
+http://38.76.152.22:8000/play/a00u/index.m3u8
+#EXTINF:-1,Sony Max 2
+http://38.76.152.22:8000/play/a00h/index.m3u8
 #EXTINF:-1,GOLDMINES
 http://45.148.145.57/IN_STARGOLDSELECT/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,HINDI NAMELESS 1
@@ -55,6 +63,18 @@ https://cdn-2.pishow.tv/live/419/master.m3u8
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 group-title="HINDI", Zee Bollywood
 http://212.102.34.8:9080/ZeeBollywood/video.m3u8
+#EXTINF:-1,Zee Bollywood BU
+http://38.76.152.22:8000/play/a00n/index.m3u8
+#EXTINF:-1,Star Select
+http://38.76.152.22:8000/play/a01s/index.m3u8
+#EXTINF:-1,Star Gold Romance
+http://38.76.152.22:8000/play/a00r/index.m3u8
+#EXTINF:-1,STAR GOLD
+http://38.76.152.22:8000/play/a00c/index.m3u8
+#EXTINF:-1,STAR GOLD HD
+http://38.76.152.22:8000/play/a00f/index.m3u8
+#EXTINF:-1,STAR GOLD 2
+http://38.76.152.22:8000/play/a00g/index.m3u8
 #EXTINF:-1,YYZ TV
 http://cdn12.henico.net:8080/live/sursangam/index.m3u8
 #EXTINF:-1 group-title="HINDI", Shemaroo Bollywood UK
@@ -85,7 +105,8 @@ http://38.76.152.22:8000/play/a00y/index.m3u8
 http://38.76.152.22:8000/play/a00a/index.m3u8
 #EXTINF:-1,COLOR CINEPLEX BOLLYWOOD
 http://38.76.152.22:8000/play/a01a/index.m3u8
-
+#EXTINF:-1,A PLUS
+http://38.76.152.22:8000/play/a03c/index.m3u8
 
 #EXTINF:-1 group-title="HINDI",SHEMAROO FILMY GAANE
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/c80a70b7-08fa-4f36-8578-88a3da022708/0.m3u8
@@ -93,6 +114,15 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1,B4U MUSIC
 https://cdn-2.pishow.tv/live/415/master.m3u8
+
+#EXTINF:-1 group-title="MOVIE", DIGI MOVIES
+https://fastdehost.com/live/digimovie.m3u8
+#EXTINF:-1 group-title="MOVIE",AFRA MOVIES 
+https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="MOVIE",GRAND CINEMA
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1,TLC
+http://38.76.152.22:8000/play/a01c/index.m3u8
 #EXTINF:-1 group-title="HINDI",STAR
 http://170.254.18.106/STAR/index.m3u8
 #EXTINF:-1 group-title="SPORT",SPORT 1
@@ -107,17 +137,35 @@ http://212.102.60.231/TSN_4/index.m3u8
 http://212.102.60.231/TSN_5/index.m3u8
 #EXTINF:-1 group-title="SPORT", Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 group-title="MOVIE", DIGI MOVIES
-https://fastdehost.com/live/digimovie.m3u8
-#EXTINF:-1 group-title="MOVIE",AFRA MOVIES 
-https://afrafhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="MOVIE",GRAND CINEMA
-https://gcinemahls.wns.live/hls/stream.m3u8
 #EXTINF:-1,Star Sport 1
 http://38.76.152.22:8000/play/a06x/index.m3u8
 #EXTINF:-1,STAR SPORT 2
 http://38.76.152.22:8000/play/a06y/index.m3u8
 #EXTINF:-1,Sony Sport 2
 http://38.76.152.22:8000/play/a01y/index.m3u8
+#EXTINF:-1,Sony Sport 4
+http://38.76.152.22:8000/play/a07c/index.m3u8
+#EXTINF:-1,Sony Sport 5
+http://38.76.152.22:8000/play/a07b/index.m3u8
+#EXTINF:-1,Fast Sport
+http://38.76.152.22:8000/play/a05f/index.m3u8
+#EXTINF:-1,Euro Sport
+http://38.76.152.22:8000/play/a01g/index.m3u8
+#EXTINF:-1,WILD
+http://38.76.152.22:8000/play/a01d/index.m3u8
+#EXTINF:-1,NAtional Geo
+http://38.76.152.22:8000/play/a01f/index.m3u8
+#EXTINF:-1,Discovery 
+http://38.76.152.22:8000/play/a01k/index.m3u8
+#EXTINF:-1,BBC Earth
+http://38.76.152.22:8000/play/a01r/index.m3u8
+#EXTINF:-1,Discover PK
+http://38.76.152.22:8000/play/a06r/index.m3u8
+#EXTINF:-1,AXN
+http://38.76.152.22:8000/play/a06i/index.m3u8
+#EXTINF:-1,ATV
+http://38.76.152.22:8000/play/a04q/index.m3u8
+#EXTINF:-1,Peace TV
+http://38.76.152.22:8000/play/a05q/index.m3u8
 #EXTINF:-1,NICK SOHRAB
 http://38.76.152.22:8000/play/a07a/index.m3u8
