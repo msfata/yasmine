@@ -29,16 +29,44 @@ https://jmc-live.ercdn.net/amutv/amutv.m3u8
 https://59d39900ebfb8.streamlock.net/viet-sports/viet-sports/playlist.m3u8
 #EXTINF:-1 group-title="IRAN", SHABAKAH 1
 https://cdn1.live.af/live/iribtv1-720.m3u8
+#EXTINF:-1,Flix
+http://xtv.ooo:8080/live/874246786/743567899/66236.m3u8
+#EXTINF:-1,UNKNOWN
+http://xtv.ooo:8080/live/874246786/743567899/66229.m3u8
+#EXTINF:-1,STAR MOVIES
+http://xtv.ooo:8080/live/874246786/743567899/66213.m3u8
+#EXTINF:-1,AND PER
+http://xtv.ooo:8080/live/874246786/743567899/66228.m3u8
+#EXTINF:-1,SONY PIX
+http://xtv.ooo:8080/live/874246786/743567899/66224.m3u8
+#EXTINF:-1,ZEE CLASSIC
+http://xtv.ooo:8080/live/874246786/743567899/66201.m3u8
+#EXTINF:-1,ZEE ACTION
+http://xtv.ooo:8080/live/874246786/743567899/66191.m3u8
+#EXTINF:-1,SONY MAX2
+http://xtv.ooo:8080/live/874246786/743567899/66189.m3u8
 #EXTINF:-1,B4U Movies
 http://38.76.152.22:8000/play/a01w/index.m3u8
+#EXTINF:-1,ZEE CINEMA HINDI
+http://xtv.ooo:8080/live/874246786/743567899/66187.m3u8
 #EXTINF:-1,Zee Cinema 
 http://38.76.152.22:8000/play/a06w/index.m3u8
 #EXTINF:-1,Picture
 http://38.76.152.22:8000/play/a01t/index.m3u8
 #EXTINF:-1,Zee Cinema Hindi
 http://38.76.152.22:8000/play/a01v/index.m3u8
+#EXTINF:-1,STAR GOLD ROMANCE
+http://xtv.ooo:8080/live/874246786/743567899/66186.m3u8
+#EXTINF:-1,Star gold select
+http://xtv.ooo:8080/live/874246786/743567899/66176.m3u8
+#EXTINF:-1,SONY SAB
+http://xtv.ooo:8080/live/874246786/743567899/66175.m3u8
 #EXTINF:-1,Sony
 http://38.76.152.22:8000/play/a00j/index.m3u8
+#EXTINF:-1,SONY MAX HD
+http://xtv.ooo:8080/live/874246786/743567899/66180.m3u8
+#EXTINF:-1,PICTURE HD
+http://xtv.ooo:8080/live/874246786/743567899/66183.m3u8
 #EXTINF:-1,Sony Max
 http://38.76.152.22:8000/play/a00u/index.m3u8
 #EXTINF:-1,Sony Max 2
