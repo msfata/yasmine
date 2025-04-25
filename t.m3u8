@@ -207,3 +207,5 @@ http://38.76.152.22:8000/play/a02x/index.m3u8
 http://38.76.152.22:8000/play/a05q/index.m3u8
 #EXTINF:-1,NICK SOHRAB
 http://38.76.152.22:8000/play/a07a/index.m3u8
+#EXTINF:-1,IPL TATA
+https://m3u8.cloudycx.net/media/hls/files/1080p.m3u8
