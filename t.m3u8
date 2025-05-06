@@ -211,3 +211,5 @@ http://38.76.152.22:8000/play/a05q/index.m3u8
 http://38.76.152.22:8000/play/a07a/index.m3u8
 #EXTINF:-1,Turkish Hindi
 http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1 group-title="SPORT", Star Sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
