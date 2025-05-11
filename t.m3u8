@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="AFGHANISTAN",TOLO NEWS
-https://cdn1.live.af/live/tolonewstv.m3u8
+https://stream2.removie.raha.af/live/smil:tolonewstv.smil/chunklist_w1246922612_b1500000.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",TOLO TV
-https://cdn1.live.af/live/tolotv.m3u8?hls_ctx=9yv5pt28
-#EXTINF:-1 group-title="AFGHANISTAN",1 TV
-https://cdn1.live.af/live/1tv.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",FIZA
-https://cdn1.live.af/live/fazatv.m3u8
+https://stream2.removie.raha.af/live/smil:tolotv.smil/chunklist_w481661891_b1500000.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN", 1 TV
+https://stream2.removie.raha.af/live/smil:1tv.smil/chunklist_w1369759032_b1500000.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN", FIZA
+https://stream2.removie.raha.af/live/smil:fazatv.smil/chunklist_w274534040_b1500000.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",KAIHAN
@@ -215,3 +215,21 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1, Paki movie
 https://d1jfc1x2reg057.cloudfront.net/titan/_definst_/vidly_vod/content/smil:video/movies/golgappo-2022/movie/GolGappo_HD.smil/manifest.m3u8
+#EXTINF:-1 ,A Sports
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1,warzish
+https://stream2.removie.raha.af/live/smil:tjvarzishtv.smil/chunklist_w976205827_b1500000.m3u8
+#EXTINF:-1,football
+https://stream2.removie.raha.af/live/smil:footballtv.smil/chunklist_w470563582_b1500000.m3u8
+#EXTINF:-1,MULI SPORT
+https://stream2.removie.raha.af/live/smil:rtasporttv.smil/chunklist_w466692175_b1500000.m3u8
+#EXTINF:-1,Eurosport2 HD
+185.189.225.150:85/Eurosport2/index.m3u8
+#EXTINF:-1,CRICKET
+http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
+#EXTINF:-1, T SPORT
+https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
+#EXTINF:-1,Ten Sport
+http://str24.l9574.com/610.stream/index.m3u8
