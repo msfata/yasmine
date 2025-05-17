@@ -31,6 +31,8 @@ https://jmc-live.ercdn.net/amutv/amutv.m3u8
 https://59d39900ebfb8.streamlock.net/viet-sports/viet-sports/playlist.m3u8
 #EXTINF:-1 group-title="IRAN", SHABAKAH 1
 https://cdn1.live.af/live/iribtv1-720.m3u8
+#EXTINF:-1,AB MASTII
+https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
 #EXTINF:-1,Flix
 http://xtv.ooo:8080/live/874246786/743567899/66236.m3u8
 #EXTINF:-1,UNKNOWN
@@ -173,8 +175,6 @@ http://212.102.60.231/TSN_3/index.m3u8
 http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1 group-title="SPORT", SPORT 5
 http://212.102.60.231/TSN_5/index.m3u8
-#EXTINF:-1 group-title="SPORT", Star Sports 1
-http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1,Star Sport 1
 http://38.76.152.22:8000/play/a06x/index.m3u8
 #EXTINF:-1,STAR SPORT 2
@@ -233,3 +233,7 @@ http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 #EXTINF:-1,Ten Sport
 http://str24.l9574.com/610.stream/index.m3u8
+#EXTINF:-1,HBO 2
+https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Disney XD
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
