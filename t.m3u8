@@ -48,10 +48,18 @@ https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
 https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1,B4U Kadak
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
-#EXTINF:-1,Zee Cinema • US
-http://englands.store:80/live/ZNH8U63H5CUQ666/2kpDmwe7AI/316373.ts
-#EXTINF:-1 ,Zee Cinema
+
+
+#EXTINF:-1,Zee Cinema
+http://202.70.146.135:8000/play/a0an/index.m3u8
+
+#EXTINF:-1 ,Zee Cinema 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
+#EXTINF:-1 ,Zee Cinema INDIA
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+
+
 #EXTINF:-1 ,Zee Cine Classic
 https://jmp2.uk/stvp-IN21000014R
 #EXTINF:-1 ,Goldmines Bollywood
@@ -191,6 +199,8 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/ts-eu-w1-n2/playlist/amg01602-themahqfrance-vivekanald-samsungspain/cb54341a65736c8b84cb3e65cef047a9f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7350db80148b61299bce8c37683f03409a5e5afba358b1ebe15f4cd86ef7e21e55c42f16e29f43c8821da6898558c85ed770f746c8c3f2dd87448385f3f0986d965cd0bde91ce9e103f1eb78f4bdb86c359b783d4b6c248cc1b6cb3ef002da21269edadead6aef16b4fc4d188b83d872f6678125996faf07eadb41aca9becd003551687df00055c3d38cad815d15b167f5a6eccf603ee59eefaf8da81fbb140711ea8de71d89c10084b163b5a6660b31ce9240d1fbd8e7bce5d81ace60a2ad85c9558e3259e02ba62443fec834788a0d88847c04495f4bbd9f1ae694cc4d23674395ba93b5791494d4918ad3023a8535550aa828ee520b68c3237f3ccb19b9cb6c22d97d4ab23c33ad0c6ec05aaaec65b586cbf50a3e82dbc569f67ba0e05985b851ff2d74722a87df0013054074dbeb262a357ac84aad93e9e965060de9b89cab921d68496959024cb8e3e17189878f7c4e418f007012017a7da10dd86dd0175a407f996cb4823d34d4566f7d9ce4553b7d6399cfbd84fda6e94ca770decabd746f0c506db93c12352cb492884af62c446e703cd7ef05c427d0ee243e4cfa9ed1acb3f7ff0fc5002147c324/7/1920x1080_6046040/index.m3u8
 #EXTINF:-1 , Cricket Gold
 https://jmp2.uk/stvp-IN1300001NN
+#EXTINF:-1,EURO SPORT
+http://202.70.146.135:8000/play/a05s/index.m3u8
 
 
 
