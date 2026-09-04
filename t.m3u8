@@ -78,16 +78,14 @@ http://str24.l9574.com/745.stream/index.m3u8
 http://str24.l9574.com/746.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI",YYZ TV
 http://cdn12.henico.net:8080/live/sursangam/index.m3u8
-#EXTINF:-1 ,SHEMAROO
-https://prod-runn.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
-#EXTINF:-1 ,Shemaroo Bollywood 1
+
+#EXTINF:-1 ,Shemaroo Bollywood 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 ,AURANG & NAFISA
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1 ,KADAK BACKUP
 http://str24.l9574.com/727.stream/index.m3u8
-#EXTINF:-1 ,GOLDMINES
-http://cdn-2.pishow.tv/live/1459/master.m3u8
+
 #EXTINF:-1 ,Bollygold
 https://jmp2.uk/stvp-IN4000600Q
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD 4U
@@ -96,29 +94,14 @@ https://streams2.sofast.tv/ptnr-whaletv/title-BOLLYWOOD-4U-ENG_WHALETV/v1/master
 https://jmp2.uk/stvp-IN2100004C4
 #EXTINF:-1 ,Zee Dil Se
 https://jmp2.uk/stvp-IN2100003OJ
-
 #EXTINF:-1 ,HD Travel
 https://jmp2.uk/stvp-IN400053KM
 #EXTINF:-1 ,FailArmy
 https://jmp2.uk/stvp-INBA5100030AO
-
 #EXTINF:-1 group-title="INDIA",BIGSTAR
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/playlist.m3u8
 #EXTINF:-1 ,Big Star Bollywood
 https://amigofx.com:1936/bigstarmovie/bigstarmovie/chunklist_w466807892.m3u8
-
-#EXTINF:-1 ,YRF Music
-http://str24.l9574.com/704.stream/index.m3u8
-#EXTINF:-1 group-title="UK",DiscoverFilm
-https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 ,70s Cinema
-https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
-#EXTINF:-1 ,80s Rewind
-https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
-#EXTINF:-1 ,90s Throwback
-https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
-#EXTINF:-1 ,Rakuten TV Romance Movies UK
-https://2c88ed8c4df9479aa0c7138dc42115e2.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6194/master.m3u8
 #EXTINF:-1 ,Zee Comedy Nation
 https://jmp2.uk/stvp-IN2100002GD
 #EXTINF:-1 ,ABUJAHAD
@@ -168,6 +151,8 @@ http://str24.l9574.com/724.stream/index.m3u8
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8l4w3lst4co5&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTINF:-1 , SHOW TV 
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1&ppid=04a5a9d1bd9e667f7c3d2a6ffe1007a2&gdpr=1&gdpr_consent=CQpgI4AQpgI4AEsACBTRCtFoAP_gAEPgACaIMGoB7C7cbCFCCDJ3ILsEEABHQJAAYsAwBAIAAgABDBIQIBwCgEEaBAyIFCACCAAAIAABAAAkGAAAAUAAIAABAABEAAwAIBAIIAAAgAEAAAIAAAAoCIgAEQCAAAAEBEAAkAgAAAIAWEAAAAAAAACBAAAAAAAAAAAAAAEAAAMAAQAAwAAAgAgAgAAAAAAAAAAIAAAAAAAAAAAAAAAQMAAAAAAAAAAAAAAAABAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAAAIMGoB7C7cbCFCCDBXILsEEABXQJAAYsAwBAIAAgABDBIQIAwCkEESBAiIECAACAAAIAABAAAoEAgAAEAAAAABAABEAAwAIBAIAAAAgAEAQAAAAAAICIgAEQCAAAAEBEAAgQgAAAIAWEAAAAAAAACBAAAAAAAAAAAAAAEAAAMAACAAQAAAgAgAgAAAAAAAAAAIEAAAAAAAAAAAAAAQMAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAAAAAAAAAAAAAAAABAAAAAIAA.IMGoB7C7cbCFCCDJ3ILsEEABXQJAAYsAwBAIAAgABDBIQIBwCkEEaBAyIFCACCAAAIAABAAAsGAgAAUAAIAABAABEAAwAIBAIIAAAgAEAQAIAAAAoCIgAEQCAAAAEBEAAkQgAAAIAWEAAAAAAAACBAAAAAAAAAAAAAAEAAAMAASAAwAAAgAgAgAAAAAAAAAAIEAAAAAAAAAAAAAAQMAAAAAAAAAAAAAAAABAAAAAAAQgAAEAAAAAAAAAAAAAAAABAAAAAIA&addtl_consent=2~61.70.89.122.144.161.196.230.385.442.445.494.495.550.576.827.1025.1029.1033.1047.1097.1126.1171.1301.1342.1725.1942.2068.2074.2109.2223.2224.2416.2567.2568.2575.2577.2657.2699.2778.2813.2822.2869.2878.2920.2963.3005.3023.3126.3253.5231.13731.15731.16831.33931~dv.&dfp_paln=AQzzBGQEoZ2OZX7ufR12fa-L-mVXBJmlbfK3cLjGuY_PZnpz8IYw6u7Lqq0yRtRcoKP-dRjX-yeeFgDNMUVwHk5S5XPYvqgT_NZOndm-ZzRPYYrO2_jqKrQf9aIGl5WViZt_NULsIk_PAsy9rMVZ5fZGbAob1bfGJ-uKLjKnKmpCmENJAdRHTGMRONZqwkZXUawik0LT_xHoaxmn1OHDeIqEuhfNtb8pDCMIrh-FilSo6lUMUSiwRL_8eWLcBNOWrrQmgXrsln7HAAEBTRYdNzJo9DDeoMWQeZsJu_Ej1Xj-2nB1CSYaaWr0QjarBZr29HAw3RI4ApE71bsc374IgaXLru74wqiEn0-99sG6I89hwx5y7S8Ih-r8yV_BA-yZ6rjrofqc4pIf1M_6O0sK2CuwX-Wd5jJj82AVXVODGL5t0nVRTDe9nK2h0WQ_4-I_SfqVklz9Jf82NdEFwVTjxpS3dMMz8NoxADP3l15kDCBSwThGQ-C0-geraSlBGFNggsoLrXEJihuYsVr7qCO3yklv0dQ-IZ12n57F5aC473e_7WfccwVYwuutB12QQY-7J3NkxRiFDiiXizOPjXNGg55WCa3J2nC5sBK5kVesX0QytydCjYsa3ww1g6h8y8eMhl8EZP9dUafAAn64Rt1wcIBUsUaszDc91VYEWQcOb2ZVn-L0PykkNvQQsVDBIhMXsWUkmnJ82MzNkPkJ9yrQSXKuV_JTu4v2dqB1UCbSZu67pQytOG5XptlQcRYSljl1hW_bwiuBqZHflkSf0kK6QBJ_UUq3W3LDn2TZtOUYGHI7wlOu2ZbewS290zD3Qetew3ZzwM_XjhyDkJpKW1oWmisTV4vfHFR83Bl3wNblTq-Kat5Hbgjv8KEae1gwaPsdfVaquro3DxLuEUVnRR9QUgmCjq2GhKPEknmT-MwZkmmK56GdLQeDWlZAAM1yfUaXfS5uCmndTiUUyHtwvxXmwh9gVrJctrdRLCLH010RSiwSiJvgCaRy5tkVDeio8Q5YK9spwkuAf1w7G6j4tATNLIOddJEQ2EcWSumCfIaePA4iBMEsnIVGkpoOl1HhWR9hibyYEc7lpKlWwCTgVpzTJz9mN4jFGLEgQKXq55ean0U7f5jTfvXoR0jdMRxDw8tyEHE3y1NnILsB_Z_sLVH3MpFdo7y-WPWZqQtEdCjArEcFFLCfWdMpEMSkX_GRG0kZaP8q8OkUWi1TR6efIBb4PhmEZklosas2JTC8OsssxlHn__WdlqHyYK2lqmvxWW4eW1nWb2Zx6F8R5sTQbTG2pixo9yQ3s6wEYojcHREAJsMtCS7Cge4EWvrtp5jQQxlXtgrfLSIF6A..
+#EXTINF:-1,SHOW TV NEW
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 ,Now TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 ,TV2
@@ -204,6 +189,11 @@ https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/ts-eu-w1-n
 https://jmp2.uk/stvp-IN1300001NN
 #EXTINF:-1,EURO SPORT
 http://202.70.146.135:8000/play/a05s/index.m3u8
+#EXTINF:-1,TEN SPORT
+http://str24.l9574.com/610.stream/index.m3u8
+
+#EXTINF:-1,WILLOW CRICKET NEW
+http://str24.l9574.com/731.stream/index.m3u8
 
 
 
