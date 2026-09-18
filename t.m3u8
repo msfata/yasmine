@@ -22,42 +22,97 @@ https://tgn.bozztv.com/eshgtv-dvrfl05/gin-arezotv/index.m3u8
 #EXTINF:-1,Super TV 
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
 
-#EXTINF:-1 tvg-id="IN4000555E" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4000555E_20260325T012300SQUARE.png" group-title="India - Entertainment",Bollywood Masala
-https://jmp2.uk/stvp-IN4000555E
-#EXTINF:-1, 9XM
-https://9xjio.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1,STAR PLUS
-http://38.96.178.205/STARPLUS/index.m3u8
-#EXTINF:-1,ZEE TV
-http://38.96.178.205/ZEE_TV/index.m3u8
-#EXTINF:-1,Sony Entertainment Television HD (1080p)
-http://38.96.178.205/SONYHD/index.m3u8
-#EXTINF:-1 ,&Picture HD
-http://str24.l9574.com/705.stream/index.m3u8
+#EXTINF:-1 ,YRF Music
+http://str24.l9574.com/704.stream/index.m3u8
+
+#EXTINF:-1 ,Zee Cinema YuppTV
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+#EXTINF:-1 ,Zee Cinema 1
+http://englands.store:80/live/ZNH8U63H5CUQ666/2kpDmwe7AI/316373.ts.m3u8
+#EXTINF:-1 ,Zee Cinema UK 2
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD-video=2137600.m3u8
+
+#EXTINF:-1,Zee Cinema 3
+http://202.70.146.135:8000/play/a0an/index.m3u8
+#EXTINF:-1 ,GOLDMINES
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1,COLOR CINEPLIX BOLLYWOOD
+http://str24.l9574.com/735.stream/index.m3u8
+
+#http://202.70.146.135:8000/play/a058/index.m3u8
+
 #EXTINF:-1 ,MOVIE CLUB
 https://pb-dkdpz5so0aqqr.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-dkdpz5so0aqqr/7fb7f991-65af-467f-b5ab-df8d28efa37d/2.m3u8
 #EXTINF:-1 ,The Movie Club +2
 https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
 #EXTINF:-1 ,NH BollyFlix
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
-#EXTINF:-1 ,SIAGAK HA
-https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,B4U Music 
-https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="HINDI", STAR GOLD
+http://202.70.146.135:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="HINDI", STAR GOLD 2
+http://202.70.146.135:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="HINDI", SHAEMAROO BOLLYWOOD
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 , SONY MAX2
+http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts.m3u8
+#EXTINF:-1 ,&Picture HD
+http://str24.l9574.com/705.stream/index.m3u8
+#EXTINF:-1,MH1 movies
+http://27.116.22.53:5001/live/1925.m3u8
+
+#http://202.70.146.135:8000/play/a06b/index.m3u8
+
+#EXTINF:-1 ,Zee Cine Classic
+https://jmp2.uk/stvp-IN21000014R
 #EXTINF:-1,B4U Movies 
 https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 #EXTINF:-1,B4U Kadak
 https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8
+#EXTINF:-1 group-title="HINDI",BOLLYWOOD MAX
+https://vods2.aynaott.com/hindimovies/playlist.m3u8
+#EXTINF:-1 group-title="HINDI",HINDI 1
+https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="HINDI",HINDI 2
+http://str24.l9574.com/742.stream/index.m3u8
+#EXTINF:-1 group-title="HINDI",HINDI 3
+http://str24.l9574.com/743.stream/index.m3u8
+#EXTINF:-1 group-title="HINDI",HINDI 4
+http://str24.l9574.com/744.stream/index.m3u8
+#EXTINF:-1 group-title="HINDI",HINDI 5
+http://str24.l9574.com/745.stream/index.m3u8
+#EXTINF:-1 group-title="HINDI",HINDI 6
+http://str24.l9574.com/746.stream/index.m3u8
+
+#EXTINF:-1 group-title="HINDI",YYZ TV
+http://cdn12.henico.net:8080/live/sursangam/index.m3u8
+
+#EXTINF:-1 ,AURANG & NAFISA
+https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
+
+#EXTINF:-1 group-title="HINDI",BOLLYWOOD 4U
+https://streams2.sofast.tv/ptnr-whaletv/title-BOLLYWOOD-4U-ENG_WHALETV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f89681f7-77ad-4107-aff3-74c8a14a0ad6/manifest.m3u8
+
+#EXTINF:-1,Color Cineplex HD
+http://202.70.146.135:8000/play/a04n/index.m3u8
+#EXTINF:-1,Sony Max 1
+http://202.70.146.135:8000/play/a01g/index.m3u8
+
+#EXTINF:-1 ,Zee Comedy Nation
+https://jmp2.uk/stvp-IN2100002GD
+
+#EXTINF:-1,Epic Crimes
+https://jmp2.uk/stvp-IN8000171I
+#EXTINF:-1,Epic Music
+https://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/f2197ade-d8af-4f19-8b94-542c4ab875bd/0.m3u8
+#EXTINF:-1 , SONY PIX
+http://27.116.22.53:5001/live/762.m3u8
 
 
-#EXTINF:-1,Zee Cinema
-http://202.70.146.135:8000/play/a0an/index.m3u8
-
-#EXTINF:-1 ,Zee Cinema 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-
-#EXTINF:-1 ,Zee Cinema INDIA
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 
 
 #EXTINF:-1 ,Zee Cine Classic
