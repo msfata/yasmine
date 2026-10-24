@@ -19,23 +19,19 @@ https://fl1002.bozztv.com/gf-zarintv/index.m3u8
 #EXTINF:-1 group-title="AFGHNAISTAN",AREZO TV
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-arezotv/index.m3u8
 
-#EXTINF:-1,Super TV 
-http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1,EPIC MUSIC
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 
 #EXTINF:-1 ,YRF Music
 http://str24.l9574.com/704.stream/index.m3u8
 
 #EXTINF:-1 ,Zee Cinema YuppTV
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
-#EXTINF:-1 ,Zee Cinema 1
-http://englands.store:80/live/ZNH8U63H5CUQ666/2kpDmwe7AI/316373.ts.m3u8
 #EXTINF:-1 ,Zee Cinema UK 2
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD-video=2137600.m3u8
 
-#EXTINF:-1,Zee Cinema 3
-http://202.70.146.135:8000/play/a0an/index.m3u8
 #EXTINF:-1 ,GOLDMINES
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1,COLOR CINEPLIX BOLLYWOOD
@@ -62,8 +58,7 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts.m3u8
 #EXTINF:-1 ,&Picture HD
 http://str24.l9574.com/705.stream/index.m3u8
-#EXTINF:-1,MH1 movies
-http://27.116.22.53:5001/live/1925.m3u8
+
 
 #http://202.70.146.135:8000/play/a06b/index.m3u8
 
@@ -97,20 +92,13 @@ https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD 4U
 https://streams2.sofast.tv/ptnr-whaletv/title-BOLLYWOOD-4U-ENG_WHALETV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f89681f7-77ad-4107-aff3-74c8a14a0ad6/manifest.m3u8
 
-#EXTINF:-1,Color Cineplex HD
-http://202.70.146.135:8000/play/a04n/index.m3u8
-#EXTINF:-1,Sony Max 1
-http://202.70.146.135:8000/play/a01g/index.m3u8
 
 #EXTINF:-1 ,Zee Comedy Nation
 https://jmp2.uk/stvp-IN2100002GD
 
 #EXTINF:-1,Epic Crimes
 https://jmp2.uk/stvp-IN8000171I
-#EXTINF:-1,Epic Music
-https://cc-3cyxq80qusspd.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/f2197ade-d8af-4f19-8b94-542c4ab875bd/0.m3u8
-#EXTINF:-1 , SONY PIX
-http://27.116.22.53:5001/live/762.m3u8
+
 
 
 
@@ -191,12 +179,10 @@ http://str24.l9574.com/737.stream/index.m3u8
 https://amg01076-lightningintern-rialto-samsungnz-03h40.amagi.tv/playlist/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 #EXTINF:-1,Willow (720p)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1,Star Sports 2 Hindi (720p)
-https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
+
 #EXTINF:-1,Star Sports Select 2 HD (720p)
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
-#EXTINF:-1,Star Sports 2 HD (720p)
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+
 #EXTINF:-1 ,Star Sport
 http://str24.l9574.com/715.stream/index.m3u8
 #EXTINF:-1 ,Star Sport 1
@@ -225,9 +211,9 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 
 #EXTINF:-1 , ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
-
-#EXTINF:-1 , 1TB tv
+#EXTINF:-1 , A HBR
 https://live.itbtvlive.com/itbtvlive/index.m3u8
+
 #EXTINF:-1 ,Now Turkey
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 , TV 4
@@ -242,17 +228,9 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/ts-eu-w1-n2/playlist/amg01602-themahqfrance-vivekanald-samsungspain/cb54341a65736c8b84cb3e65cef047a9f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7350db80148b61299bce8c37683f03409a5e5afba358b1ebe15f4cd86ef7e21e55c42f16e29f43c8821da6898558c85ed770f746c8c3f2dd87448385f3f0986d965cd0bde91ce9e103f1eb78f4bdb86c359b783d4b6c248cc1b6cb3ef002da21269edadead6aef16b4fc4d188b83d872f6678125996faf07eadb41aca9becd003551687df00055c3d38cad815d15b167f5a6eccf603ee59eefaf8da81fbb140711ea8de71d89c10084b163b5a6660b31ce9240d1fbd8e7bce5d81ace60a2ad85c9558e3259e02ba62443fec834788a0d88847c04495f4bbd9f1ae694cc4d23674395ba93b5791494d4918ad3023a8535550aa828ee520b68c3237f3ccb19b9cb6c22d97d4ab23c33ad0c6ec05aaaec65b586cbf50a3e82dbc569f67ba0e05985b851ff2d74722a87df0013054074dbeb262a357ac84aad93e9e965060de9b89cab921d68496959024cb8e3e17189878f7c4e418f007012017a7da10dd86dd0175a407f996cb4823d34d4566f7d9ce4553b7d6399cfbd84fda6e94ca770decabd746f0c506db93c12352cb492884af62c446e703cd7ef05c427d0ee243e4cfa9ed1acb3f7ff0fc5002147c324/7/1920x1080_6046040/index.m3u8
 #EXTINF:-1 , Cricket Gold
 https://jmp2.uk/stvp-IN1300001NN
-#EXTINF:-1,EURO SPORT
-http://202.70.146.135:8000/play/a05s/index.m3u8
+
 #EXTINF:-1,TEN SPORT
 http://str24.l9574.com/610.stream/index.m3u8
 
 #EXTINF:-1,WILLOW CRICKET NEW
 http://str24.l9574.com/731.stream/index.m3u8
-
-
-
-
-
-
-
